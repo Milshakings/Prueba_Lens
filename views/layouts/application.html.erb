@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>DesafioAcelerarLens</title>
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <%= csrf_meta_tags %>
+    <%= csp_meta_tag %>
+
+    <%= stylesheet_link_tag "application", "data-turbo-track": "reload" %>
+    <%= javascript_importmap_tags %>
+    <link rel="stylesheet" href="app/assets/stylesheets/main.css"/>  
+   <noscript><link rel="stylesheet" href="app/assets/stylesheets/noscript.css " /></noscript>
+    
+  </head>
+
+  <body class="is-preload-0 is-preload-1 is-preload-2">
+    
+
+<!-- Main -->
+			<div id="main">
+
+				<!-- Header -->
+					<header id="header">
+						<%= render 'shared/header' %>
+					</header>
+
+
+<!-- Thumbnail -->
+					<section id="thumbnails">
+			<%= yield %>
+					</section>
+
+
+	<!-- Footer -->
+					<footer id="footer">
+						<%= render 'shared/footer' %>
+					</footer>
+  </div>
+
+	  <%= javascript_include_tag 'application' %>
+      <%= javascript_include_tag 'jquery.min' %>
+     <%= javascript_include_tag 'browser.min' %>
+      <%= javascript_include_tag 'breakpoints.min' %>
+      <%= javascript_include_tag 'main' %>
+<script src="https://kit.fontawesome.com/27999d7840.js" crossorigin="anonymous"></script>
+
+
+  </body>
+</html>
