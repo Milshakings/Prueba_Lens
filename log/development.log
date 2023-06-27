@@ -1,0 +1,3142 @@
+Started GET "/" for 127.0.0.1 at 2023-06-23 13:48:57 -0400
+Processing by PagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (Duration: 4.1ms | Allocations: 443)
+  Rendered layout layouts/application.html.erb (Duration: 554.4ms | Allocations: 169332)
+Completed 200 OK in 593ms (Views: 560.3ms | ActiveRecord: 0.0ms | Allocations: 175999)
+
+
+  
+ActionController::RoutingError (No route matches [GET] "/js/jquery.min.js"):
+  
+Started GET "/images/thumbs/02.jpg" for 127.0.0.1 at 2023-06-23 13:48:58 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/js/breakpoints.min.js"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/js/browser.min.js"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/images/thumbs/02.jpg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/js/main.js"):
+  
+Started GET "/images/thumbs/07.jpg" for 127.0.0.1 at 2023-06-23 13:48:58 -0400
+Started GET "/images/thumbs/11.jpg" for 127.0.0.1 at 2023-06-23 13:48:58 -0400
+Started GET "/images/thumbs/01.jpg" for 127.0.0.1 at 2023-06-23 13:48:58 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/images/thumbs/07.jpg"):
+  
+Started GET "/images/thumbs/08.jpg" for 127.0.0.1 at 2023-06-23 13:48:58 -0400
+Started GET "/images/thumbs/04.jpg" for 127.0.0.1 at 2023-06-23 13:48:58 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/images/thumbs/01.jpg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/images/thumbs/11.jpg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/images/thumbs/04.jpg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/images/thumbs/08.jpg"):
+  
+Started GET "/images/thumbs/10.jpg" for 127.0.0.1 at 2023-06-23 13:48:58 -0400
+Started GET "/images/thumbs/05.jpg" for 127.0.0.1 at 2023-06-23 13:48:58 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/images/thumbs/10.jpg"):
+  
+Started GET "/images/thumbs/06.jpg" for 127.0.0.1 at 2023-06-23 13:48:59 -0400
+Started GET "/images/thumbs/09.jpg" for 127.0.0.1 at 2023-06-23 13:48:59 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/images/thumbs/05.jpg"):
+  
+Started GET "/images/thumbs/03.jpg" for 127.0.0.1 at 2023-06-23 13:48:59 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/images/thumbs/09.jpg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/images/thumbs/06.jpg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/images/thumbs/03.jpg"):
+  
+Started GET "/images/thumbs/12.jpg" for 127.0.0.1 at 2023-06-23 13:48:59 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/images/thumbs/12.jpg"):
+  
+Started GET "/index" for 127.0.0.1 at 2023-06-23 13:49:11 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/index"):
+  
+Started GET "/index" for 127.0.0.1 at 2023-06-23 13:55:29 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/index"):
+  
+Started GET "/index" for 127.0.0.1 at 2023-06-23 14:05:15 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/index"):
+  
+Started GET "/pages/index" for 127.0.0.1 at 2023-06-23 14:06:37 -0400
+Processing by PagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (Duration: 0.9ms | Allocations: 123)
+  Rendered layout layouts/application.html.erb (Duration: 19.9ms | Allocations: 10096)
+Completed 200 OK in 25ms (Views: 23.4ms | Allocations: 10987)
+
+
+Started GET "/pages/assets/stylesheets/main.css" for 127.0.0.1 at 2023-06-23 14:06:37 -0400
+Started GET "/pages/images/thumbs/01.jpg" for 127.0.0.1 at 2023-06-23 14:06:37 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/pages/assets/stylesheets/main.css"):
+  
+Started GET "/webfonts/fa-brands-400.woff2" for 127.0.0.1 at 2023-06-23 14:06:37 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/pages/images/thumbs/01.jpg"):
+  
+Started GET "/webfonts/fa-regular-400.woff2" for 127.0.0.1 at 2023-06-23 14:06:37 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-brands-400.woff2"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-regular-400.woff2"):
+  
+Started GET "/pages/images/thumbs/02.jpg" for 127.0.0.1 at 2023-06-23 14:06:37 -0400
+Started GET "/pages/images/thumbs/03.jpg" for 127.0.0.1 at 2023-06-23 14:06:37 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/pages/images/thumbs/02.jpg"):
+  
+Started GET "/pages/images/thumbs/05.jpg" for 127.0.0.1 at 2023-06-23 14:06:37 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/pages/images/thumbs/03.jpg"):
+  
+Started GET "/pages/images/thumbs/12.jpg" for 127.0.0.1 at 2023-06-23 14:06:37 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/pages/images/thumbs/05.jpg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/pages/images/thumbs/12.jpg"):
+  
+Started GET "/webfonts/fa-regular-400.woff" for 127.0.0.1 at 2023-06-23 14:06:37 -0400
+Started GET "/pages/images/thumbs/04.jpg" for 127.0.0.1 at 2023-06-23 14:06:37 -0400
+Started GET "/webfonts/fa-brands-400.woff" for 127.0.0.1 at 2023-06-23 14:06:37 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-regular-400.woff"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/pages/images/thumbs/04.jpg"):
+  
+Started GET "/pages/images/thumbs/07.jpg" for 127.0.0.1 at 2023-06-23 14:06:37 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-brands-400.woff"):
+  
+Started GET "/pages/images/thumbs/11.jpg" for 127.0.0.1 at 2023-06-23 14:06:38 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/pages/images/thumbs/07.jpg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/pages/images/thumbs/11.jpg"):
+  
+Started GET "/pages/images/thumbs/10.jpg" for 127.0.0.1 at 2023-06-23 14:06:38 -0400
+Started GET "/webfonts/fa-regular-400.ttf" for 127.0.0.1 at 2023-06-23 14:06:38 -0400
+Started GET "/pages/images/thumbs/08.jpg" for 127.0.0.1 at 2023-06-23 14:06:38 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/pages/images/thumbs/10.jpg"):
+  
+Started GET "/webfonts/fa-brands-400.ttf" for 127.0.0.1 at 2023-06-23 14:06:38 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-regular-400.ttf"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/pages/images/thumbs/08.jpg"):
+  
+Started GET "/pages/images/thumbs/09.jpg" for 127.0.0.1 at 2023-06-23 14:06:38 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-brands-400.ttf"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/pages/images/thumbs/09.jpg"):
+  
+Started GET "/pages/images/fulls/01.jpg" for 127.0.0.1 at 2023-06-23 14:06:38 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/pages/images/fulls/01.jpg"):
+  
+Started GET "/pages/images/thumbs/06.jpg" for 127.0.0.1 at 2023-06-23 14:06:38 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/pages/images/thumbs/06.jpg"):
+  
+Started GET "/pages/index" for 127.0.0.1 at 2023-06-23 14:10:25 -0400
+Processing by PagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (Duration: 1.8ms | Allocations: 123)
+  Rendered layout layouts/application.html.erb (Duration: 24.1ms | Allocations: 10091)
+Completed 200 OK in 35ms (Views: 30.5ms | Allocations: 11021)
+
+
+Started GET "/pages/assets/stylesheets/main.css" for 127.0.0.1 at 2023-06-23 14:10:25 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/pages/assets/stylesheets/main.css"):
+  
+Started GET "/pages/images/thumbs/01.jpg" for 127.0.0.1 at 2023-06-23 14:10:25 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/pages/images/thumbs/01.jpg"):
+  
+Started GET "/pages/images/thumbs/03.jpg" for 127.0.0.1 at 2023-06-23 14:10:25 -0400
+Started GET "/pages/images/thumbs/02.jpg" for 127.0.0.1 at 2023-06-23 14:10:26 -0400
+Started GET "/pages/images/thumbs/05.jpg" for 127.0.0.1 at 2023-06-23 14:10:26 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/pages/images/thumbs/03.jpg"):
+  
+Started GET "/webfonts/fa-regular-400.woff2" for 127.0.0.1 at 2023-06-23 14:10:26 -0400
+Started GET "/webfonts/fa-brands-400.woff2" for 127.0.0.1 at 2023-06-23 14:10:26 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/pages/images/thumbs/02.jpg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/pages/images/thumbs/05.jpg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-regular-400.woff2"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-brands-400.woff2"):
+  
+Started GET "/pages/images/thumbs/06.jpg" for 127.0.0.1 at 2023-06-23 14:10:26 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/pages/images/thumbs/06.jpg"):
+  
+Started GET "/pages/images/thumbs/10.jpg" for 127.0.0.1 at 2023-06-23 14:10:26 -0400
+Started GET "/pages/images/thumbs/11.jpg" for 127.0.0.1 at 2023-06-23 14:10:26 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/pages/images/thumbs/10.jpg"):
+  
+Started GET "/pages/images/thumbs/12.jpg" for 127.0.0.1 at 2023-06-23 14:10:26 -0400
+Started GET "/webfonts/fa-brands-400.woff" for 127.0.0.1 at 2023-06-23 14:10:26 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/pages/images/thumbs/11.jpg"):
+  
+Started GET "/webfonts/fa-regular-400.woff" for 127.0.0.1 at 2023-06-23 14:10:26 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/pages/images/thumbs/12.jpg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-brands-400.woff"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-regular-400.woff"):
+  
+Started GET "/pages/images/thumbs/08.jpg" for 127.0.0.1 at 2023-06-23 14:10:26 -0400
+Started GET "/pages/images/thumbs/09.jpg" for 127.0.0.1 at 2023-06-23 14:10:26 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/pages/images/thumbs/08.jpg"):
+  
+Started GET "/pages/images/thumbs/04.jpg" for 127.0.0.1 at 2023-06-23 14:10:26 -0400
+Started GET "/webfonts/fa-brands-400.ttf" for 127.0.0.1 at 2023-06-23 14:10:26 -0400
+Started GET "/images/fulls/01.jpg" for 127.0.0.1 at 2023-06-23 14:10:26 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/pages/images/thumbs/09.jpg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/pages/images/thumbs/04.jpg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-brands-400.ttf"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/images/fulls/01.jpg"):
+  
+Started GET "/webfonts/fa-regular-400.ttf" for 127.0.0.1 at 2023-06-23 14:10:26 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-regular-400.ttf"):
+  
+Started GET "/pages/images/thumbs/07.jpg" for 127.0.0.1 at 2023-06-23 14:10:27 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/pages/images/thumbs/07.jpg"):
+  
+Started GET "/pages/index" for 127.0.0.1 at 2023-06-23 14:20:12 -0400
+Processing by PagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (Duration: 0.9ms | Allocations: 123)
+  Rendered layout layouts/application.html.erb (Duration: 34.1ms | Allocations: 10094)
+Completed 200 OK in 41ms (Views: 38.8ms | Allocations: 11021)
+
+
+Started GET "/pages/assets/stylesheets/main.css" for 127.0.0.1 at 2023-06-23 14:20:12 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/pages/assets/stylesheets/main.css"):
+  
+Started GET "/pages/images/thumbs/02.jpg" for 127.0.0.1 at 2023-06-23 14:20:12 -0400
+Started GET "/pages/images/thumbs/04.jpg" for 127.0.0.1 at 2023-06-23 14:20:12 -0400
+Started GET "/pages/images/thumbs/01.jpg" for 127.0.0.1 at 2023-06-23 14:20:12 -0400
+Started GET "/pages/images/thumbs/03.jpg" for 127.0.0.1 at 2023-06-23 14:20:12 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/pages/images/thumbs/02.jpg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/pages/images/thumbs/04.jpg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/pages/images/thumbs/01.jpg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/pages/images/thumbs/03.jpg"):
+  
+Started GET "/webfonts/fa-brands-400.woff2" for 127.0.0.1 at 2023-06-23 14:20:12 -0400
+Started GET "/webfonts/fa-regular-400.woff2" for 127.0.0.1 at 2023-06-23 14:20:12 -0400
+Started GET "/pages/images/thumbs/10.jpg" for 127.0.0.1 at 2023-06-23 14:20:12 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-regular-400.woff2"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-brands-400.woff2"):
+  
+Started GET "/pages/images/thumbs/12.jpg" for 127.0.0.1 at 2023-06-23 14:20:12 -0400
+Started GET "/pages/images/thumbs/09.jpg" for 127.0.0.1 at 2023-06-23 14:20:12 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/pages/images/thumbs/10.jpg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/pages/images/thumbs/09.jpg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/pages/images/thumbs/12.jpg"):
+  
+Started GET "/pages/images/thumbs/07.jpg" for 127.0.0.1 at 2023-06-23 14:20:12 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/pages/images/thumbs/07.jpg"):
+  
+Started GET "/pages/images/thumbs/05.jpg" for 127.0.0.1 at 2023-06-23 14:20:13 -0400
+Started GET "/webfonts/fa-brands-400.woff" for 127.0.0.1 at 2023-06-23 14:20:13 -0400
+Started GET "/pages/images/thumbs/11.jpg" for 127.0.0.1 at 2023-06-23 14:20:13 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/pages/images/thumbs/05.jpg"):
+  
+Started GET "/pages/images/thumbs/06.jpg" for 127.0.0.1 at 2023-06-23 14:20:13 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/pages/images/thumbs/11.jpg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-brands-400.woff"):
+  
+Started GET "/pages/images/thumbs/08.jpg" for 127.0.0.1 at 2023-06-23 14:20:13 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/pages/images/thumbs/06.jpg"):
+  
+Started GET "/images/fulls/01.jpg" for 127.0.0.1 at 2023-06-23 14:20:13 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/pages/images/thumbs/08.jpg"):
+  
+Started GET "/webfonts/fa-regular-400.woff" for 127.0.0.1 at 2023-06-23 14:20:13 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/images/fulls/01.jpg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-regular-400.woff"):
+  
+Started GET "/webfonts/fa-regular-400.ttf" for 127.0.0.1 at 2023-06-23 14:20:13 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-regular-400.ttf"):
+  
+Started GET "/webfonts/fa-brands-400.ttf" for 127.0.0.1 at 2023-06-23 14:20:13 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-brands-400.ttf"):
+  
+Started GET "/pages/index" for 127.0.0.1 at 2023-06-23 14:26:19 -0400
+Processing by PagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (Duration: 0.8ms | Allocations: 123)
+  Rendered layout layouts/application.html.erb (Duration: 37.7ms | Allocations: 10100)
+Completed 200 OK in 44ms (Views: 40.9ms | Allocations: 11030)
+
+
+Started GET "/pages/assets/stylesheets/main.css" for 127.0.0.1 at 2023-06-23 14:26:19 -0400
+Started GET "/pages/images/thumbs/01.jpg" for 127.0.0.1 at 2023-06-23 14:26:19 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/pages/assets/stylesheets/main.css"):
+  
+Started GET "/pages/images/thumbs/03.jpg" for 127.0.0.1 at 2023-06-23 14:26:19 -0400
+Started GET "/pages/images/thumbs/02.jpg" for 127.0.0.1 at 2023-06-23 14:26:19 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/pages/images/thumbs/01.jpg"):
+  
+Started GET "/pages/images/thumbs/05.jpg" for 127.0.0.1 at 2023-06-23 14:26:19 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/pages/images/thumbs/03.jpg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/pages/images/thumbs/02.jpg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/pages/images/thumbs/05.jpg"):
+  
+Started GET "/webfonts/fa-brands-400.woff2" for 127.0.0.1 at 2023-06-23 14:26:19 -0400
+Started GET "/webfonts/fa-regular-400.woff2" for 127.0.0.1 at 2023-06-23 14:26:19 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-brands-400.woff2"):
+  
+Started GET "/pages/images/thumbs/11.jpg" for 127.0.0.1 at 2023-06-23 14:26:20 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-regular-400.woff2"):
+  
+Started GET "/pages/images/thumbs/10.jpg" for 127.0.0.1 at 2023-06-23 14:26:20 -0400
+Started GET "/pages/images/thumbs/08.jpg" for 127.0.0.1 at 2023-06-23 14:26:20 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/pages/images/thumbs/10.jpg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/pages/images/thumbs/11.jpg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/pages/images/thumbs/08.jpg"):
+  
+Started GET "/pages/images/thumbs/09.jpg" for 127.0.0.1 at 2023-06-23 14:26:20 -0400
+Started GET "/webfonts/fa-brands-400.woff" for 127.0.0.1 at 2023-06-23 14:26:20 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/pages/images/thumbs/09.jpg"):
+  
+Started GET "/pages/images/thumbs/04.jpg" for 127.0.0.1 at 2023-06-23 14:26:20 -0400
+Started GET "/pages/images/thumbs/12.jpg" for 127.0.0.1 at 2023-06-23 14:26:20 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-brands-400.woff"):
+  
+Started GET "/pages/images/thumbs/07.jpg" for 127.0.0.1 at 2023-06-23 14:26:20 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/pages/images/thumbs/04.jpg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/pages/images/thumbs/12.jpg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/pages/images/thumbs/07.jpg"):
+  
+Started GET "/pages/images/thumbs/06.jpg" for 127.0.0.1 at 2023-06-23 14:26:20 -0400
+Started GET "/webfonts/fa-regular-400.woff" for 127.0.0.1 at 2023-06-23 14:26:20 -0400
+Started GET "/webfonts/fa-brands-400.ttf" for 127.0.0.1 at 2023-06-23 14:26:20 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/pages/images/thumbs/06.jpg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-regular-400.woff"):
+  
+Started GET "/images/fulls/01.jpg" for 127.0.0.1 at 2023-06-23 14:26:20 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-brands-400.ttf"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/images/fulls/01.jpg"):
+  
+Started GET "/webfonts/fa-regular-400.ttf" for 127.0.0.1 at 2023-06-23 14:26:20 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-regular-400.ttf"):
+  
+Started GET "/pages/index" for 127.0.0.1 at 2023-06-23 14:30:13 -0400
+Processing by PagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (Duration: 0.4ms | Allocations: 123)
+  Rendered layout layouts/application.html.erb (Duration: 33.8ms | Allocations: 9963)
+Completed 200 OK in 37ms (Views: 35.7ms | Allocations: 10892)
+
+
+Started GET "/pages/assets/stylesheets/main.css" for 127.0.0.1 at 2023-06-23 14:30:13 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/pages/assets/stylesheets/main.css"):
+  
+Started GET "/pages/images/thumbs/01.jpg" for 127.0.0.1 at 2023-06-23 14:30:13 -0400
+Started GET "/pages/images/thumbs/04.jpg" for 127.0.0.1 at 2023-06-23 14:30:13 -0400
+Started GET "/pages/images/thumbs/03.jpg" for 127.0.0.1 at 2023-06-23 14:30:13 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/pages/images/thumbs/04.jpg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/pages/images/thumbs/01.jpg"):
+  
+Started GET "/pages/images/thumbs/05.jpg" for 127.0.0.1 at 2023-06-23 14:30:13 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/pages/images/thumbs/03.jpg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/pages/images/thumbs/05.jpg"):
+  
+Started GET "/pages/images/thumbs/02.jpg" for 127.0.0.1 at 2023-06-23 14:30:13 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/pages/images/thumbs/02.jpg"):
+  
+Started GET "/pages/images/thumbs/07.jpg" for 127.0.0.1 at 2023-06-23 14:30:13 -0400
+Started GET "/pages/images/thumbs/08.jpg" for 127.0.0.1 at 2023-06-23 14:30:13 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/pages/images/thumbs/07.jpg"):
+  
+Started GET "/pages/images/thumbs/09.jpg" for 127.0.0.1 at 2023-06-23 14:30:13 -0400
+Started GET "/pages/images/thumbs/10.jpg" for 127.0.0.1 at 2023-06-23 14:30:13 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/pages/images/thumbs/08.jpg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/pages/images/thumbs/10.jpg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/pages/images/thumbs/09.jpg"):
+  
+Started GET "/webfonts/fa-regular-400.woff2" for 127.0.0.1 at 2023-06-23 14:30:14 -0400
+Started GET "/webfonts/fa-brands-400.woff2" for 127.0.0.1 at 2023-06-23 14:30:14 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-brands-400.woff2"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-regular-400.woff2"):
+  
+Started GET "/pages/images/thumbs/11.jpg" for 127.0.0.1 at 2023-06-23 14:30:14 -0400
+Started GET "/pages/images/thumbs/12.jpg" for 127.0.0.1 at 2023-06-23 14:30:14 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/pages/images/thumbs/11.jpg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/pages/images/thumbs/12.jpg"):
+  
+Started GET "/images/fulls/01.jpg" for 127.0.0.1 at 2023-06-23 14:30:14 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/images/fulls/01.jpg"):
+  
+Started GET "/webfonts/fa-regular-400.woff" for 127.0.0.1 at 2023-06-23 14:30:14 -0400
+Started GET "/pages/images/thumbs/06.jpg" for 127.0.0.1 at 2023-06-23 14:30:14 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-regular-400.woff"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/pages/images/thumbs/06.jpg"):
+  
+Started GET "/webfonts/fa-brands-400.woff" for 127.0.0.1 at 2023-06-23 14:30:14 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-brands-400.woff"):
+  
+Started GET "/webfonts/fa-regular-400.ttf" for 127.0.0.1 at 2023-06-23 14:30:14 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-regular-400.ttf"):
+  
+Started GET "/webfonts/fa-brands-400.ttf" for 127.0.0.1 at 2023-06-23 14:30:14 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-brands-400.ttf"):
+  
+Started GET "/pages/index" for 127.0.0.1 at 2023-06-23 14:30:43 -0400
+Processing by PagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (Duration: 0.0ms | Allocations: 7)
+  Rendered layout layouts/application.html.erb (Duration: 16.2ms | Allocations: 9210)
+Completed 200 OK in 20ms (Views: 19.5ms | Allocations: 9500)
+
+
+Started GET "/pages/assets/stylesheets/main.css" for 127.0.0.1 at 2023-06-23 14:30:43 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/pages/assets/stylesheets/main.css"):
+  
+Started GET "/pages/images/thumbs/01.jpg" for 127.0.0.1 at 2023-06-23 14:30:43 -0400
+Started GET "/pages/images/thumbs/03.jpg" for 127.0.0.1 at 2023-06-23 14:30:43 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/pages/images/thumbs/01.jpg"):
+  
+Started GET "/pages/images/thumbs/04.jpg" for 127.0.0.1 at 2023-06-23 14:30:43 -0400
+Started GET "/pages/images/thumbs/02.jpg" for 127.0.0.1 at 2023-06-23 14:30:43 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/pages/images/thumbs/03.jpg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/pages/images/thumbs/04.jpg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/pages/images/thumbs/02.jpg"):
+  
+Started GET "/webfonts/fa-brands-400.woff2" for 127.0.0.1 at 2023-06-23 14:30:43 -0400
+Started GET "/webfonts/fa-regular-400.woff2" for 127.0.0.1 at 2023-06-23 14:30:43 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-brands-400.woff2"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-regular-400.woff2"):
+  
+Started GET "/pages/images/thumbs/09.jpg" for 127.0.0.1 at 2023-06-23 14:30:43 -0400
+Started GET "/pages/images/thumbs/07.jpg" for 127.0.0.1 at 2023-06-23 14:30:43 -0400
+Started GET "/pages/images/thumbs/11.jpg" for 127.0.0.1 at 2023-06-23 14:30:43 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/pages/images/thumbs/09.jpg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/pages/images/thumbs/07.jpg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/pages/images/thumbs/11.jpg"):
+  
+Started GET "/pages/images/thumbs/06.jpg" for 127.0.0.1 at 2023-06-23 14:30:43 -0400
+Started GET "/pages/images/thumbs/05.jpg" for 127.0.0.1 at 2023-06-23 14:30:43 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/pages/images/thumbs/06.jpg"):
+  
+Started GET "/webfonts/fa-regular-400.woff" for 127.0.0.1 at 2023-06-23 14:30:44 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/pages/images/thumbs/05.jpg"):
+  
+Started GET "/pages/images/thumbs/08.jpg" for 127.0.0.1 at 2023-06-23 14:30:44 -0400
+Started GET "/pages/images/thumbs/10.jpg" for 127.0.0.1 at 2023-06-23 14:30:44 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-regular-400.woff"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/pages/images/thumbs/08.jpg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/pages/images/thumbs/10.jpg"):
+  
+Started GET "/webfonts/fa-brands-400.woff" for 127.0.0.1 at 2023-06-23 14:30:44 -0400
+Started GET "/images/fulls/01.jpg" for 127.0.0.1 at 2023-06-23 14:30:44 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-brands-400.woff"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/images/fulls/01.jpg"):
+  
+Started GET "/webfonts/fa-regular-400.ttf" for 127.0.0.1 at 2023-06-23 14:30:44 -0400
+Started GET "/pages/images/thumbs/12.jpg" for 127.0.0.1 at 2023-06-23 14:30:44 -0400
+Started GET "/webfonts/fa-brands-400.ttf" for 127.0.0.1 at 2023-06-23 14:30:44 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-regular-400.ttf"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/pages/images/thumbs/12.jpg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-brands-400.ttf"):
+  
+Started GET "/pages/index" for 127.0.0.1 at 2023-06-23 14:36:37 -0400
+Processing by PagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (Duration: 0.2ms | Allocations: 7)
+  Rendered layout layouts/application.html.erb (Duration: 22.7ms | Allocations: 9231)
+Completed 200 OK in 24ms (Views: 23.7ms | Allocations: 9500)
+
+
+Started GET "/pages/assets/stylesheets/main.css" for 127.0.0.1 at 2023-06-23 14:36:37 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/pages/assets/stylesheets/main.css"):
+  
+Started GET "/pages/images/thumbs/02.jpg" for 127.0.0.1 at 2023-06-23 14:36:37 -0400
+Started GET "/pages/images/thumbs/01.jpg" for 127.0.0.1 at 2023-06-23 14:36:37 -0400
+Started GET "/pages/images/thumbs/03.jpg" for 127.0.0.1 at 2023-06-23 14:36:37 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/pages/images/thumbs/02.jpg"):
+  
+Started GET "/pages/images/thumbs/04.jpg" for 127.0.0.1 at 2023-06-23 14:36:37 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/pages/images/thumbs/01.jpg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/pages/images/thumbs/03.jpg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/pages/images/thumbs/04.jpg"):
+  
+Started GET "/webfonts/fa-regular-400.woff2" for 127.0.0.1 at 2023-06-23 14:36:37 -0400
+Started GET "/webfonts/fa-brands-400.woff2" for 127.0.0.1 at 2023-06-23 14:36:37 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-regular-400.woff2"):
+  
+Started GET "/pages/images/thumbs/11.jpg" for 127.0.0.1 at 2023-06-23 14:36:37 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-brands-400.woff2"):
+  
+Started GET "/pages/images/thumbs/07.jpg" for 127.0.0.1 at 2023-06-23 14:36:37 -0400
+Started GET "/pages/images/thumbs/09.jpg" for 127.0.0.1 at 2023-06-23 14:36:37 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/pages/images/thumbs/07.jpg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/pages/images/thumbs/11.jpg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/pages/images/thumbs/09.jpg"):
+  
+Started GET "/pages/images/thumbs/05.jpg" for 127.0.0.1 at 2023-06-23 14:36:38 -0400
+Started GET "/pages/images/thumbs/08.jpg" for 127.0.0.1 at 2023-06-23 14:36:38 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/pages/images/thumbs/05.jpg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/pages/images/thumbs/08.jpg"):
+  
+Started GET "/webfonts/fa-regular-400.woff" for 127.0.0.1 at 2023-06-23 14:36:38 -0400
+Started GET "/webfonts/fa-brands-400.woff" for 127.0.0.1 at 2023-06-23 14:36:38 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-regular-400.woff"):
+  
+Started GET "/pages/images/thumbs/10.jpg" for 127.0.0.1 at 2023-06-23 14:36:38 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-brands-400.woff"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/pages/images/thumbs/10.jpg"):
+  
+Started GET "/pages/images/thumbs/12.jpg" for 127.0.0.1 at 2023-06-23 14:36:38 -0400
+Started GET "/images/fulls/01.jpg" for 127.0.0.1 at 2023-06-23 14:36:38 -0400
+Started GET "/webfonts/fa-regular-400.ttf" for 127.0.0.1 at 2023-06-23 14:36:38 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/pages/images/thumbs/12.jpg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/images/fulls/01.jpg"):
+  
+Started GET "/webfonts/fa-brands-400.ttf" for 127.0.0.1 at 2023-06-23 14:36:38 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-regular-400.ttf"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-brands-400.ttf"):
+  
+Started GET "/pages/images/thumbs/06.jpg" for 127.0.0.1 at 2023-06-23 14:36:38 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/pages/images/thumbs/06.jpg"):
+  
+Started GET "/pages/index" for 127.0.0.1 at 2023-06-23 14:53:08 -0400
+Processing by PagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (Duration: 1.1ms | Allocations: 123)
+  Rendered layout layouts/application.html.erb (Duration: 18.0ms | Allocations: 1520)
+Completed 500 Internal Server Error in 24ms (Allocations: 2419)
+
+
+  
+ActionView::SyntaxErrorInTemplate (Encountered a syntax error while rendering template: check <!DOCTYPE html>
+<html>
+  <head>
+    <title>DesafioAcelerarLens</title>
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <%= csrf_meta_tags %>
+    <%= csp_meta_tag %>
+
+    <%= stylesheet_link_tag "main", "data-turbo-track": "reload" %>
+    <%= javascript_importmap_tags %>
+    <link rel="stylesheet" href="assets/stylesheets/main.css" />
+    <noscript><link rel="stylesheet" href="app/assets/stylesheets/noscript.css " /></noscript>
+    
+  </head>
+
+  <body class="is-preload-0 is-preload-1 is-preload-2">
+    <%= yield %>
+
+<!-- Main -->
+			<div id="main">
+
+				<!-- Header -->
+					<header id="header">
+						<h1>Lens</h1>
+						<p>Just another fine responsive site template by <a href="http://html5up.net">HTML5 UP</a></p>
+						<ul class="icons">
+							<li><a href="#" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
+							<li><a href="#" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
+							<li><a href="#" class="icon brands fa-github"><span class="label">Github</span></a></li>
+							<li><a href="#" class="icon fa-envelope"><span class="label">Email</span></a></li>
+						</ul>
+					</header>
+
+
+<!-- Thumbnail -->
+					<section id="thumbnails">
+						<article>
+              <%= image_tag 'fulls/01.jpg', class: thumbnail, data-position:"left center" %>
+							<a class="thumbnail" href="../images/fulls/01.jpg" data-position="left center"><img src="images/thumbs/01.jpg" alt="" /></a>
+							<h2>Diam tempus accumsan</h2>
+							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+						</article>
+						<article>
+							<a class="thumbnail" href="images/fulls/02.jpg"><img src="images/thumbs/02.jpg" alt="" /></a>
+							<h2>Vivamus convallis libero</h2>
+							<p>Sed velit lacus, laoreet at venenatis convallis in lorem tincidunt.</p>
+						</article>
+						<article>
+							<a class="thumbnail" href="images/fulls/03.jpg" data-position="top center"><img src="images/thumbs/03.jpg" alt="" /></a>
+							<h2>Nec accumsan enim felis</h2>
+							<p>Maecenas eleifend tellus ut turpis eleifend, vitae pretium faucibus.</p>
+						</article>
+						<article>
+							<a class="thumbnail" href="images/fulls/04.jpg"><img src="images/thumbs/04.jpg" alt="" /></a>
+							<h2>Donec maximus nisi eget</h2>
+							<p>Tristique in nulla vel congue. Sed sociis natoque parturient nascetur.</p>
+						</article>
+						<article>
+							<a class="thumbnail" href="images/fulls/05.jpg" data-position="top center"><img src="images/thumbs/05.jpg" alt="" /></a>
+							<h2>Nullam vitae nunc vulputate</h2>
+							<p>In pellentesque cursus velit id posuere. Donec vehicula nulla.</p>
+						</article>
+						<article>
+							<a class="thumbnail" href="images/fulls/06.jpg"><img src="images/thumbs/06.jpg" alt="" /></a>
+							<h2>Phasellus magna faucibus</h2>
+							<p>Nulla dignissim libero maximus tellus varius dictum ut posuere magna.</p>
+						</article>
+						<article>
+							<a class="thumbnail" href="images/fulls/07.jpg"><img src="images/thumbs/07.jpg" alt="" /></a>
+							<h2>Proin quis mauris</h2>
+							<p>Etiam ultricies, lorem quis efficitur porttitor, facilisis ante orci urna.</p>
+						</article>
+						<article>
+							<a class="thumbnail" href="images/fulls/08.jpg"><img src="images/thumbs/08.jpg" alt="" /></a>
+							<h2>Gravida quis varius enim</h2>
+							<p>Nunc egestas congue lorem. Nullam dictum placerat ex sapien tortor mattis.</p>
+						</article>
+						<article>
+							<a class="thumbnail" href="images/fulls/09.jpg"><img src="images/thumbs/09.jpg" alt="" /></a>
+							<h2>Morbi eget vitae adipiscing</h2>
+							<p>In quis vulputate dui. Maecenas metus elit, dictum praesent lacinia lacus.</p>
+						</article>
+						<article>
+							<a class="thumbnail" href="images/fulls/10.jpg"><img src="images/thumbs/10.jpg" alt="" /></a>
+							<h2>Habitant tristique senectus</h2>
+							<p>Vestibulum ante ipsum primis in faucibus orci luctus ac tincidunt dolor.</p>
+						</article>
+						<article>
+							<a class="thumbnail" href="images/fulls/11.jpg"><img src="images/thumbs/11.jpg" alt="" /></a>
+							<h2>Pharetra ex non faucibus</h2>
+							<p>Ut sed magna euismod leo laoreet congue. Fusce congue enim ultricies.</p>
+						</article>
+						<article>
+							<a class="thumbnail" href="images/fulls/12.jpg"><img src="images/thumbs/12.jpg" alt="" /></a>
+							<h2>Mattis lorem sodales</h2>
+							<p>Feugiat auctor leo massa, nec vestibulum nisl erat faucibus, rutrum nulla.</p>
+						</article>
+					</section>
+
+
+	<!-- Footer -->
+					<footer id="footer">
+						<ul class="copyright">
+							<li>&copy; Untitled.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a>.</li>
+						</ul>
+					</footer>
+  </div>
+
+      <%= javascript_include_tag 'jquery.min' %>
+     <%= javascript_include_tag 'browser.min' %>
+      <%= javascript_include_tag 'breakpoints.min' %>
+      <%= javascript_include_tag 'main' %>
+
+
+
+  </body>
+</html>
+
+):
+1:    <!DOCTYPE html>
+2:    <html>
+3:      <head>
+4:        <title>DesafioAcelerarLens</title>
+5:        <meta name="viewport" content="width=device-width,initial-scale=1">
+6:        <%= csrf_meta_tags %>
+7:        <%= csp_meta_tag %>
+8:    
+9:        <%= stylesheet_link_tag "main", "data-turbo-track": "reload" %>
+10:        <%= javascript_importmap_tags %>
+11:        <link rel="stylesheet" href="assets/stylesheets/main.css" />
+12:        <noscript><link rel="stylesheet" href="app/assets/stylesheets/noscript.css " /></noscript>
+13:        
+14:      </head>
+15:    
+16:      <body class="is-preload-0 is-preload-1 is-preload-2">
+17:        <%= yield %>
+18:    
+19:    <!-- Main -->
+20:    			<div id="main">
+21:    
+22:    				<!-- Header -->
+23:    					<header id="header">
+24:    						<h1>Lens</h1>
+25:    						<p>Just another fine responsive site template by <a href="http://html5up.net">HTML5 UP</a></p>
+26:    						<ul class="icons">
+27:    							<li><a href="#" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
+28:    							<li><a href="#" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
+29:    							<li><a href="#" class="icon brands fa-github"><span class="label">Github</span></a></li>
+30:    							<li><a href="#" class="icon fa-envelope"><span class="label">Email</span></a></li>
+31:    						</ul>
+32:    					</header>
+33:    
+34:    
+35:    <!-- Thumbnail -->
+36:    					<section id="thumbnails">
+37:    						<article>
+38:                  <%= image_tag 'fulls/01.jpg', class: thumbnail, data-position:"left center" %>
+39:    							<a class="thumbnail" href="../images/fulls/01.jpg" data-position="left center"><img src="images/thumbs/01.jpg" alt="" /></a>
+40:    							<h2>Diam tempus accumsan</h2>
+41:    							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+42:    						</article>
+43:    						<article>
+44:    							<a class="thumbnail" href="images/fulls/02.jpg"><img src="images/thumbs/02.jpg" alt="" /></a>
+45:    							<h2>Vivamus convallis libero</h2>
+46:    							<p>Sed velit lacus, laoreet at venenatis convallis in lorem tincidunt.</p>
+47:    						</article>
+48:    						<article>
+49:    							<a class="thumbnail" href="images/fulls/03.jpg" data-position="top center"><img src="images/thumbs/03.jpg" alt="" /></a>
+50:    							<h2>Nec accumsan enim felis</h2>
+51:    							<p>Maecenas eleifend tellus ut turpis eleifend, vitae pretium faucibus.</p>
+52:    						</article>
+53:    						<article>
+54:    							<a class="thumbnail" href="images/fulls/04.jpg"><img src="images/thumbs/04.jpg" alt="" /></a>
+55:    							<h2>Donec maximus nisi eget</h2>
+56:    							<p>Tristique in nulla vel congue. Sed sociis natoque parturient nascetur.</p>
+57:    						</article>
+58:    						<article>
+59:    							<a class="thumbnail" href="images/fulls/05.jpg" data-position="top center"><img src="images/thumbs/05.jpg" alt="" /></a>
+60:    							<h2>Nullam vitae nunc vulputate</h2>
+61:    							<p>In pellentesque cursus velit id posuere. Donec vehicula nulla.</p>
+62:    						</article>
+63:    						<article>
+64:    							<a class="thumbnail" href="images/fulls/06.jpg"><img src="images/thumbs/06.jpg" alt="" /></a>
+65:    							<h2>Phasellus magna faucibus</h2>
+66:    							<p>Nulla dignissim libero maximus tellus varius dictum ut posuere magna.</p>
+67:    						</article>
+68:    						<article>
+69:    							<a class="thumbnail" href="images/fulls/07.jpg"><img src="images/thumbs/07.jpg" alt="" /></a>
+70:    							<h2>Proin quis mauris</h2>
+71:    							<p>Etiam ultricies, lorem quis efficitur porttitor, facilisis ante orci urna.</p>
+72:    						</article>
+73:    						<article>
+74:    							<a class="thumbnail" href="images/fulls/08.jpg"><img src="images/thumbs/08.jpg" alt="" /></a>
+75:    							<h2>Gravida quis varius enim</h2>
+76:    							<p>Nunc egestas congue lorem. Nullam dictum placerat ex sapien tortor mattis.</p>
+77:    						</article>
+78:    						<article>
+79:    							<a class="thumbnail" href="images/fulls/09.jpg"><img src="images/thumbs/09.jpg" alt="" /></a>
+80:    							<h2>Morbi eget vitae adipiscing</h2>
+81:    							<p>In quis vulputate dui. Maecenas metus elit, dictum praesent lacinia lacus.</p>
+82:    						</article>
+83:    						<article>
+84:    							<a class="thumbnail" href="images/fulls/10.jpg"><img src="images/thumbs/10.jpg" alt="" /></a>
+85:    							<h2>Habitant tristique senectus</h2>
+86:    							<p>Vestibulum ante ipsum primis in faucibus orci luctus ac tincidunt dolor.</p>
+87:    						</article>
+88:    						<article>
+89:    							<a class="thumbnail" href="images/fulls/11.jpg"><img src="images/thumbs/11.jpg" alt="" /></a>
+90:    							<h2>Pharetra ex non faucibus</h2>
+91:    							<p>Ut sed magna euismod leo laoreet congue. Fusce congue enim ultricies.</p>
+92:    						</article>
+93:    						<article>
+94:    							<a class="thumbnail" href="images/fulls/12.jpg"><img src="images/thumbs/12.jpg" alt="" /></a>
+95:    							<h2>Mattis lorem sodales</h2>
+96:    							<p>Feugiat auctor leo massa, nec vestibulum nisl erat faucibus, rutrum nulla.</p>
+97:    						</article>
+98:    					</section>
+99:    
+100:    
+101:    	<!-- Footer -->
+102:    					<footer id="footer">
+103:    						<ul class="copyright">
+104:    							<li>&copy; Untitled.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a>.</li>
+105:    						</ul>
+106:    					</footer>
+107:      </div>
+108:    
+109:          <%= javascript_include_tag 'jquery.min' %>
+110:         <%= javascript_include_tag 'browser.min' %>
+111:          <%= javascript_include_tag 'breakpoints.min' %>
+112:          <%= javascript_include_tag 'main' %>
+113:    
+114:    
+115:    
+116:      </body>
+117:    </html>
+  
+app/views/layouts/application.html.erb:38: syntax error, unexpected symbol literal, expecting `do' or '{' or '('
+app/views/layouts/application.html.erb:38: syntax error, unexpected symbol literal, expecting `do' or '{' or '('
+app/views/layouts/application.html.erb:38: syntax error, unexpected symbol literal, expecting `do' or '{' or '('
+app/views/layouts/application.html.erb:38: syntax error, unexpected symbol literal, expecting `do' or '{' or '('
+app/views/layouts/application.html.erb:38: syntax error, unexpected symbol literal, expecting `do' or '{' or '('
+app/views/layouts/application.html.erb:38: syntax error, unexpected symbol literal, expecting `do' or '{' or '('
+Started GET "/pages/index" for 127.0.0.1 at 2023-06-23 14:55:01 -0400
+Processing by PagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (Duration: 0.5ms | Allocations: 123)
+  Rendered layout layouts/application.html.erb (Duration: 37.3ms | Allocations: 9172)
+Completed 500 Internal Server Error in 50ms (Allocations: 10073)
+
+
+  
+ActionView::Template::Error (undefined local variable or method `thumbnail' for #<ActionView::Base:0x000000000260c0>
+
+              '.freeze;@output_buffer.append=( image_tag '01.jpg', class: thumbnail);@output_buffer.safe_append='
+                                                                          ^^^^^^^^^):
+    35: <!-- Thumbnail -->
+    36: 					<section id="thumbnails">
+    37: 						<article>
+    38:               <%= image_tag '01.jpg', class: thumbnail%>
+    39: 							<a class="thumbnail" href="../images/fulls/01.jpg" data-position="left center"><img src="images/thumbs/01.jpg" alt="" /></a>
+    40: 							<h2>Diam tempus accumsan</h2>
+    41: 							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+  
+app/views/layouts/application.html.erb:38
+Started GET "/pages/index" for 127.0.0.1 at 2023-06-23 14:56:28 -0400
+Processing by PagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (Duration: 0.5ms | Allocations: 123)
+  Rendered layout layouts/application.html.erb (Duration: 12.6ms | Allocations: 6197)
+Completed 500 Internal Server Error in 26ms (Allocations: 7096)
+
+
+  
+ActionView::Template::Error (The asset "01.jpg" is not present in the asset pipeline.
+):
+    35: <!-- Thumbnail -->
+    36: 					<section id="thumbnails">
+    37: 						<article>
+    38:               <%= image_tag '01.jpg' %>
+    39: 							<a class="thumbnail" href="../images/fulls/01.jpg" data-position="left center"><img src="images/thumbs/01.jpg" alt="" /></a>
+    40: 							<h2>Diam tempus accumsan</h2>
+    41: 							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+  
+app/views/layouts/application.html.erb:38
+Started GET "/" for 127.0.0.1 at 2023-06-25 15:21:16 -0400
+Processing by PagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (Duration: 3.6ms | Allocations: 335)
+  Rendered layout layouts/application.html.erb (Duration: 91.6ms | Allocations: 7297)
+Completed 500 Internal Server Error in 115ms (ActiveRecord: 0.0ms | Allocations: 11390)
+
+
+  
+LoadError (cannot load such file -- sassc):
+  
+app/views/layouts/application.html.erb:9
+Started GET "/" for 127.0.0.1 at 2023-06-25 15:30:45 -0400
+Processing by PagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (Duration: 2.2ms | Allocations: 126)
+  Rendered layout layouts/application.html.erb (Duration: 798.1ms | Allocations: 194256)
+Completed 200 OK in 806ms (Views: 803.0ms | Allocations: 195237)
+
+
+Started GET "/webfonts/fa-regular-400.woff2" for 127.0.0.1 at 2023-06-25 15:30:47 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/stylesheets/main.css"):
+  
+Started GET "/webfonts/fa-brands-400.woff2" for 127.0.0.1 at 2023-06-25 15:30:47 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-regular-400.woff2"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-brands-400.woff2"):
+  
+Started GET "/webfonts/fa-regular-400.woff" for 127.0.0.1 at 2023-06-25 15:30:47 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-regular-400.woff"):
+  
+Started GET "/webfonts/fa-brands-400.woff" for 127.0.0.1 at 2023-06-25 15:30:47 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-brands-400.woff"):
+  
+Started GET "/webfonts/fa-regular-400.ttf" for 127.0.0.1 at 2023-06-25 15:30:47 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-regular-400.ttf"):
+  
+Started GET "/webfonts/fa-brands-400.ttf" for 127.0.0.1 at 2023-06-25 15:30:47 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-brands-400.ttf"):
+  
+Started GET "/images/fulls/01.jpg" for 127.0.0.1 at 2023-06-25 15:30:47 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/images/fulls/01.jpg"):
+  
+Started GET "/" for 127.0.0.1 at 2023-06-25 15:47:07 -0400
+Processing by PagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (Duration: 1.1ms | Allocations: 12)
+  Rendered layout layouts/application.html.erb (Duration: 42.9ms | Allocations: 30044)
+Completed 200 OK in 45ms (Views: 44.2ms | Allocations: 30688)
+
+
+  
+ActionController::RoutingError (No route matches [GET] "/stylesheets/main.css"):
+  
+Started GET "/webfonts/fa-regular-400.woff2" for 127.0.0.1 at 2023-06-25 15:47:07 -0400
+Started GET "/webfonts/fa-brands-400.woff2" for 127.0.0.1 at 2023-06-25 15:47:07 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-regular-400.woff2"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-brands-400.woff2"):
+  
+Started GET "/webfonts/fa-regular-400.woff" for 127.0.0.1 at 2023-06-25 15:47:07 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-regular-400.woff"):
+  
+Started GET "/webfonts/fa-brands-400.woff" for 127.0.0.1 at 2023-06-25 15:47:07 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-brands-400.woff"):
+  
+Started GET "/images/fulls/01.jpg" for 127.0.0.1 at 2023-06-25 15:47:07 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/images/fulls/01.jpg"):
+  
+Started GET "/webfonts/fa-regular-400.ttf" for 127.0.0.1 at 2023-06-25 15:47:07 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-regular-400.ttf"):
+  
+Started GET "/webfonts/fa-brands-400.ttf" for 127.0.0.1 at 2023-06-25 15:47:07 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-brands-400.ttf"):
+  
+Started GET "/" for 127.0.0.1 at 2023-06-25 15:51:50 -0400
+Processing by PagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (Duration: 0.6ms | Allocations: 123)
+  Rendered layout layouts/application.html.erb (Duration: 49.5ms | Allocations: 17493)
+Completed 200 OK in 53ms (Views: 51.9ms | Allocations: 18422)
+
+
+  
+ActionController::RoutingError (No route matches [GET] "/stylesheets/main.css"):
+  
+Started GET "/webfonts/fa-regular-400.woff2" for 127.0.0.1 at 2023-06-25 15:51:50 -0400
+Started GET "/webfonts/fa-brands-400.woff2" for 127.0.0.1 at 2023-06-25 15:51:50 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-regular-400.woff2"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-brands-400.woff2"):
+  
+Started GET "/webfonts/fa-regular-400.woff" for 127.0.0.1 at 2023-06-25 15:51:50 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-regular-400.woff"):
+  
+Started GET "/webfonts/fa-brands-400.woff" for 127.0.0.1 at 2023-06-25 15:51:50 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-brands-400.woff"):
+  
+Started GET "/images/fulls/01.jpg" for 127.0.0.1 at 2023-06-25 15:51:51 -0400
+Started GET "/webfonts/fa-regular-400.ttf" for 127.0.0.1 at 2023-06-25 15:51:51 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/images/fulls/01.jpg"):
+  
+Started GET "/webfonts/fa-brands-400.ttf" for 127.0.0.1 at 2023-06-25 15:51:51 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-regular-400.ttf"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-brands-400.ttf"):
+  
+Started GET "/" for 127.0.0.1 at 2023-06-25 15:53:30 -0400
+Processing by PagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (Duration: 0.5ms | Allocations: 123)
+  Rendered layout layouts/application.html.erb (Duration: 172.9ms | Allocations: 19111)
+Completed 200 OK in 176ms (Views: 174.9ms | Allocations: 20040)
+
+
+Started GET "/webfonts/fa-brands-400.woff2" for 127.0.0.1 at 2023-06-25 15:53:31 -0400
+Started GET "/webfonts/fa-regular-400.woff2" for 127.0.0.1 at 2023-06-25 15:53:31 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/stylesheets/main.css"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-brands-400.woff2"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-regular-400.woff2"):
+  
+Started GET "/webfonts/fa-regular-400.woff" for 127.0.0.1 at 2023-06-25 15:53:31 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-regular-400.woff"):
+  
+Started GET "/webfonts/fa-brands-400.woff" for 127.0.0.1 at 2023-06-25 15:53:31 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-brands-400.woff"):
+  
+Started GET "/images/fulls/01.jpg" for 127.0.0.1 at 2023-06-25 15:53:31 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/images/fulls/01.jpg"):
+  
+Started GET "/webfonts/fa-regular-400.ttf" for 127.0.0.1 at 2023-06-25 15:53:31 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-regular-400.ttf"):
+  
+Started GET "/webfonts/fa-brands-400.ttf" for 127.0.0.1 at 2023-06-25 15:53:31 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-brands-400.ttf"):
+  
+Started GET "/" for 127.0.0.1 at 2023-06-25 15:54:02 -0400
+Processing by PagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (Duration: 0.0ms | Allocations: 7)
+  Rendered layout layouts/application.html.erb (Duration: 25.6ms | Allocations: 18082)
+Completed 200 OK in 27ms (Views: 26.8ms | Allocations: 18368)
+
+
+  
+ActionController::RoutingError (No route matches [GET] "/stylesheets/main.css"):
+  
+Started GET "/webfonts/fa-brands-400.woff2" for 127.0.0.1 at 2023-06-25 15:54:02 -0400
+Started GET "/webfonts/fa-regular-400.woff2" for 127.0.0.1 at 2023-06-25 15:54:02 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-regular-400.woff2"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-brands-400.woff2"):
+  
+Started GET "/webfonts/fa-regular-400.woff" for 127.0.0.1 at 2023-06-25 15:54:02 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-regular-400.woff"):
+  
+Started GET "/webfonts/fa-brands-400.woff" for 127.0.0.1 at 2023-06-25 15:54:02 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-brands-400.woff"):
+  
+Started GET "/images/fulls/01.jpg" for 127.0.0.1 at 2023-06-25 15:54:02 -0400
+Started GET "/webfonts/fa-regular-400.ttf" for 127.0.0.1 at 2023-06-25 15:54:02 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/images/fulls/01.jpg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-regular-400.ttf"):
+  
+Started GET "/webfonts/fa-brands-400.ttf" for 127.0.0.1 at 2023-06-25 15:54:02 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-brands-400.ttf"):
+  
+Started GET "/" for 127.0.0.1 at 2023-06-25 15:59:39 -0400
+Processing by PagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (Duration: 1.6ms | Allocations: 123)
+  Rendered layout layouts/application.html.erb (Duration: 59.1ms | Allocations: 19093)
+Completed 200 OK in 76ms (Views: 66.7ms | Allocations: 20000)
+
+
+Started GET "/app/assets/stylesheets/main.css" for 127.0.0.1 at 2023-06-25 15:59:39 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/app/assets/stylesheets/main.css"):
+  
+Started GET "/webfonts/fa-brands-400.woff2" for 127.0.0.1 at 2023-06-25 15:59:39 -0400
+Started GET "/webfonts/fa-regular-400.woff2" for 127.0.0.1 at 2023-06-25 15:59:39 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-brands-400.woff2"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-regular-400.woff2"):
+  
+Started GET "/webfonts/fa-brands-400.woff" for 127.0.0.1 at 2023-06-25 15:59:39 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-brands-400.woff"):
+  
+Started GET "/webfonts/fa-regular-400.woff" for 127.0.0.1 at 2023-06-25 15:59:39 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-regular-400.woff"):
+  
+Started GET "/images/fulls/01.jpg" for 127.0.0.1 at 2023-06-25 15:59:39 -0400
+Started GET "/webfonts/fa-brands-400.ttf" for 127.0.0.1 at 2023-06-25 15:59:40 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/images/fulls/01.jpg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-brands-400.ttf"):
+  
+Started GET "/webfonts/fa-regular-400.ttf" for 127.0.0.1 at 2023-06-25 15:59:40 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-regular-400.ttf"):
+  
+Started GET "/" for 127.0.0.1 at 2023-06-25 16:01:11 -0400
+Processing by PagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (Duration: 0.0ms | Allocations: 7)
+  Rendered layout layouts/application.html.erb (Duration: 130.8ms | Allocations: 45670)
+Completed 200 OK in 133ms (Views: 131.7ms | Allocations: 45956)
+
+
+Started GET "/app/assets/stylesheets/main.css" for 127.0.0.1 at 2023-06-25 16:01:11 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/app/assets/stylesheets/main.css"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/app/assets/webfonts"):
+  
+Started GET "/webfonts/fa-regular-400.woff2" for 127.0.0.1 at 2023-06-25 16:01:11 -0400
+Started GET "/webfonts/fa-brands-400.woff2" for 127.0.0.1 at 2023-06-25 16:01:11 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-regular-400.woff2"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-brands-400.woff2"):
+  
+Started GET "/images/fulls/01.jpg" for 127.0.0.1 at 2023-06-25 16:01:11 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/images/fulls/01.jpg"):
+  
+Started GET "/webfonts/fa-brands-400.woff" for 127.0.0.1 at 2023-06-25 16:01:11 -0400
+Started GET "/webfonts/fa-regular-400.woff" for 127.0.0.1 at 2023-06-25 16:01:11 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-brands-400.woff"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-regular-400.woff"):
+  
+Started GET "/webfonts/fa-brands-400.ttf" for 127.0.0.1 at 2023-06-25 16:01:12 -0400
+Started GET "/webfonts/fa-regular-400.ttf" for 127.0.0.1 at 2023-06-25 16:01:12 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-brands-400.ttf"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-regular-400.ttf"):
+  
+Started GET "/" for 127.0.0.1 at 2023-06-25 23:09:25 -0400
+Processing by PagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (Duration: 0.7ms | Allocations: 335)
+  Rendered layout layouts/application.html.erb (Duration: 537.2ms | Allocations: 201503)
+Completed 200 OK in 548ms (Views: 539.3ms | ActiveRecord: 0.0ms | Allocations: 205664)
+
+
+Started GET "/app/assets/stylesheets/main.css" for 127.0.0.1 at 2023-06-25 23:09:25 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/app/assets/stylesheets/main.css"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/app/assets/webfonts"):
+  
+
+NameError: constant WebConsole::SourceLocation not defined
+
+          source_location = SourceLocation.new(binding)
+                            ^^^^^^^^^^^^^^
+	from /home/raul-gall/.rbenv/versions/3.1.1/lib/ruby/gems/3.1.0/gems/web-console-4.2.0/lib/web_console/exception_mapper.rb:51:in `block in guess_the_first_application_binding'
+	from /home/raul-gall/.rbenv/versions/3.1.1/lib/ruby/gems/3.1.0/gems/web-console-4.2.0/lib/web_console/exception_mapper.rb:50:in `each'
+	from /home/raul-gall/.rbenv/versions/3.1.1/lib/ruby/gems/3.1.0/gems/web-console-4.2.0/lib/web_console/exception_mapper.rb:50:in `find'
+	from /home/raul-gall/.rbenv/versions/3.1.1/lib/ruby/gems/3.1.0/gems/web-console-4.2.0/lib/web_console/exception_mapper.rb:50:in `guess_the_first_application_binding'
+	from /home/raul-gall/.rbenv/versions/3.1.1/lib/ruby/gems/3.1.0/gems/web-console-4.2.0/lib/web_console/exception_mapper.rb:30:in `first'
+	from /home/raul-gall/.rbenv/versions/3.1.1/lib/ruby/gems/3.1.0/gems/web-console-4.2.0/lib/web_console/session.rb:48:in `initialize'
+	from /home/raul-gall/.rbenv/versions/3.1.1/lib/ruby/gems/3.1.0/gems/web-console-4.2.0/lib/web_console/session.rb:34:in `new'
+	from /home/raul-gall/.rbenv/versions/3.1.1/lib/ruby/gems/3.1.0/gems/web-console-4.2.0/lib/web_console/session.rb:34:in `from'
+	from /home/raul-gall/.rbenv/versions/3.1.1/lib/ruby/gems/3.1.0/gems/web-console-4.2.0/lib/web_console/middleware.rb:30:in `block in call'
+	from /home/raul-gall/.rbenv/versions/3.1.1/lib/ruby/gems/3.1.0/gems/web-console-4.2.0/lib/web_console/middleware.rb:17:in `catch'
+	from /home/raul-gall/.rbenv/versions/3.1.1/lib/ruby/gems/3.1.0/gems/web-console-4.2.0/lib/web_console/middleware.rb:17:in `call'
+	from /home/raul-gall/.rbenv/versions/3.1.1/lib/ruby/gems/3.1.0/gems/actionpack-7.0.5/lib/action_dispatch/middleware/show_exceptions.rb:26:in `call'
+	from /home/raul-gall/.rbenv/versions/3.1.1/lib/ruby/gems/3.1.0/gems/railties-7.0.5/lib/rails/rack/logger.rb:40:in `call_app'
+	from /home/raul-gall/.rbenv/versions/3.1.1/lib/ruby/gems/3.1.0/gems/railties-7.0.5/lib/rails/rack/logger.rb:25:in `block in call'
+	from /home/raul-gall/.rbenv/versions/3.1.1/lib/ruby/gems/3.1.0/gems/activesupport-7.0.5/lib/active_support/tagged_logging.rb:99:in `block in tagged'
+	from /home/raul-gall/.rbenv/versions/3.1.1/lib/ruby/gems/3.1.0/gems/activesupport-7.0.5/lib/active_support/tagged_logging.rb:37:in `tagged'
+	from /home/raul-gall/.rbenv/versions/3.1.1/lib/ruby/gems/3.1.0/gems/activesupport-7.0.5/lib/active_support/tagged_logging.rb:99:in `tagged'
+	from /home/raul-gall/.rbenv/versions/3.1.1/lib/ruby/gems/3.1.0/gems/railties-7.0.5/lib/rails/rack/logger.rb:25:in `call'
+	from /home/raul-gall/.rbenv/versions/3.1.1/lib/ruby/gems/3.1.0/gems/sprockets-rails-3.4.2/lib/sprockets/rails/quiet_assets.rb:13:in `call'
+	from /home/raul-gall/.rbenv/versions/3.1.1/lib/ruby/gems/3.1.0/gems/actionpack-7.0.5/lib/action_dispatch/middleware/remote_ip.rb:93:in `call'
+	from /home/raul-gall/.rbenv/versions/3.1.1/lib/ruby/gems/3.1.0/gems/actionpack-7.0.5/lib/action_dispatch/middleware/request_id.rb:26:in `call'
+	from /home/raul-gall/.rbenv/versions/3.1.1/lib/ruby/gems/3.1.0/gems/rack-2.2.7/lib/rack/method_override.rb:24:in `call'
+	from /home/raul-gall/.rbenv/versions/3.1.1/lib/ruby/gems/3.1.0/gems/rack-2.2.7/lib/rack/runtime.rb:22:in `call'
+	from /home/raul-gall/.rbenv/versions/3.1.1/lib/ruby/gems/3.1.0/gems/activesupport-7.0.5/lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+	from /home/raul-gall/.rbenv/versions/3.1.1/lib/ruby/gems/3.1.0/gems/actionpack-7.0.5/lib/action_dispatch/middleware/server_timing.rb:61:in `block in call'
+	from /home/raul-gall/.rbenv/versions/3.1.1/lib/ruby/gems/3.1.0/gems/actionpack-7.0.5/lib/action_dispatch/middleware/server_timing.rb:26:in `collect_events'
+	from /home/raul-gall/.rbenv/versions/3.1.1/lib/ruby/gems/3.1.0/gems/actionpack-7.0.5/lib/action_dispatch/middleware/server_timing.rb:60:in `call'
+	from /home/raul-gall/.rbenv/versions/3.1.1/lib/ruby/gems/3.1.0/gems/actionpack-7.0.5/lib/action_dispatch/middleware/executor.rb:14:in `call'
+	from /home/raul-gall/.rbenv/versions/3.1.1/lib/ruby/gems/3.1.0/gems/actionpack-7.0.5/lib/action_dispatch/middleware/static.rb:23:in `call'
+	from /home/raul-gall/.rbenv/versions/3.1.1/lib/ruby/gems/3.1.0/gems/rack-2.2.7/lib/rack/sendfile.rb:110:in `call'
+	from /home/raul-gall/.rbenv/versions/3.1.1/lib/ruby/gems/3.1.0/gems/actionpack-7.0.5/lib/action_dispatch/middleware/host_authorization.rb:137:in `call'
+	from /home/raul-gall/.rbenv/versions/3.1.1/lib/ruby/gems/3.1.0/gems/railties-7.0.5/lib/rails/engine.rb:530:in `call'
+	from /home/raul-gall/.rbenv/versions/3.1.1/lib/ruby/gems/3.1.0/gems/puma-5.6.6/lib/puma/configuration.rb:252:in `call'
+	from /home/raul-gall/.rbenv/versions/3.1.1/lib/ruby/gems/3.1.0/gems/puma-5.6.6/lib/puma/request.rb:77:in `block in handle_request'
+	from /home/raul-gall/.rbenv/versions/3.1.1/lib/ruby/gems/3.1.0/gems/puma-5.6.6/lib/puma/thread_pool.rb:340:in `with_force_shutdown'
+	from /home/raul-gall/.rbenv/versions/3.1.1/lib/ruby/gems/3.1.0/gems/puma-5.6.6/lib/puma/request.rb:76:in `handle_request'
+	from /home/raul-gall/.rbenv/versions/3.1.1/lib/ruby/gems/3.1.0/gems/puma-5.6.6/lib/puma/server.rb:443:in `process_client'
+	from /home/raul-gall/.rbenv/versions/3.1.1/lib/ruby/gems/3.1.0/gems/puma-5.6.6/lib/puma/thread_pool.rb:147:in `block in spawn_thread'
+Started GET "/webfonts/fa-brands-400.woff2" for 127.0.0.1 at 2023-06-25 23:09:26 -0400
+Started GET "/webfonts/fa-regular-400.woff2" for 127.0.0.1 at 2023-06-25 23:09:26 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-brands-400.woff2"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-regular-400.woff2"):
+  
+Started GET "/images/fulls/01.jpg" for 127.0.0.1 at 2023-06-25 23:09:26 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/images/fulls/01.jpg"):
+  
+Started GET "/webfonts/fa-brands-400.woff" for 127.0.0.1 at 2023-06-25 23:09:26 -0400
+Started GET "/webfonts/fa-regular-400.woff" for 127.0.0.1 at 2023-06-25 23:09:26 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-brands-400.woff"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-regular-400.woff"):
+  
+Started GET "/webfonts/fa-brands-400.ttf" for 127.0.0.1 at 2023-06-25 23:09:26 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-brands-400.ttf"):
+  
+Started GET "/webfonts/fa-regular-400.ttf" for 127.0.0.1 at 2023-06-25 23:09:26 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-regular-400.ttf"):
+  
+Started GET "/" for 127.0.0.1 at 2023-06-25 23:15:42 -0400
+Processing by PagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (Duration: 0.4ms | Allocations: 7)
+  Rendered layout layouts/application.html.erb (Duration: 159.6ms | Allocations: 44606)
+Completed 200 OK in 176ms (Views: 171.0ms | Allocations: 44910)
+
+
+Started GET "/app/assets/stylesheets/main.css" for 127.0.0.1 at 2023-06-25 23:15:42 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/app/assets/stylesheets/main.css"):
+  
+Started GET "/app/assets/webfonts" for 127.0.0.1 at 2023-06-25 23:15:42 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/app/assets/webfonts"):
+  
+Started GET "/webfonts/fa-brands-400.woff2" for 127.0.0.1 at 2023-06-25 23:15:42 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-brands-400.woff2"):
+  
+Started GET "/webfonts/fa-regular-400.woff2" for 127.0.0.1 at 2023-06-25 23:15:42 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-regular-400.woff2"):
+  
+Started GET "/webfonts/fa-brands-400.woff" for 127.0.0.1 at 2023-06-25 23:15:42 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-brands-400.woff"):
+  
+Started GET "/images/fulls/01.jpg" for 127.0.0.1 at 2023-06-25 23:15:42 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/images/fulls/01.jpg"):
+  
+Started GET "/webfonts/fa-regular-400.woff" for 127.0.0.1 at 2023-06-25 23:15:42 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-regular-400.woff"):
+  
+Started GET "/webfonts/fa-brands-400.ttf" for 127.0.0.1 at 2023-06-25 23:15:43 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-brands-400.ttf"):
+  
+Started GET "/webfonts/fa-regular-400.ttf" for 127.0.0.1 at 2023-06-25 23:15:43 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-regular-400.ttf"):
+  
+Started GET "/" for 127.0.0.1 at 2023-06-25 23:17:18 -0400
+Processing by PagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (Duration: 0.0ms | Allocations: 7)
+  Rendered layout layouts/application.html.erb (Duration: 27.6ms | Allocations: 16849)
+Completed 200 OK in 29ms (Views: 28.3ms | Allocations: 17125)
+
+
+Started GET "/app/assets/stylesheets/main.css" for 127.0.0.1 at 2023-06-25 23:17:18 -0400
+Started GET "/app/assets/webfonts" for 127.0.0.1 at 2023-06-25 23:17:18 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/app/assets/stylesheets/main.css"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/app/assets/webfonts"):
+  
+Started GET "/webfonts/fa-regular-400.woff2" for 127.0.0.1 at 2023-06-25 23:17:18 -0400
+Started GET "/webfonts/fa-brands-400.woff2" for 127.0.0.1 at 2023-06-25 23:17:18 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-regular-400.woff2"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-brands-400.woff2"):
+  
+Started GET "/images/fulls/01.jpg" for 127.0.0.1 at 2023-06-25 23:17:18 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/images/fulls/01.jpg"):
+  
+Started GET "/webfonts/fa-regular-400.woff" for 127.0.0.1 at 2023-06-25 23:17:18 -0400
+Started GET "/webfonts/fa-brands-400.woff" for 127.0.0.1 at 2023-06-25 23:17:18 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-regular-400.woff"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-brands-400.woff"):
+  
+Started GET "/webfonts/fa-regular-400.ttf" for 127.0.0.1 at 2023-06-25 23:17:18 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-regular-400.ttf"):
+  
+Started GET "/webfonts/fa-brands-400.ttf" for 127.0.0.1 at 2023-06-25 23:17:18 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-brands-400.ttf"):
+  
+Started GET "/" for 127.0.0.1 at 2023-06-25 23:18:06 -0400
+Processing by PagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (Duration: 0.2ms | Allocations: 7)
+  Rendered layout layouts/application.html.erb (Duration: 29.5ms | Allocations: 16879)
+Completed 200 OK in 30ms (Views: 30.0ms | Allocations: 17149)
+
+
+Started GET "/app/assets/stylesheets/main.css" for 127.0.0.1 at 2023-06-25 23:18:07 -0400
+Started GET "/app/assets/webfonts" for 127.0.0.1 at 2023-06-25 23:18:07 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/app/assets/stylesheets/main.css"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/app/assets/webfonts"):
+  
+Started GET "/webfonts/fa-brands-400.woff2" for 127.0.0.1 at 2023-06-25 23:18:07 -0400
+Started GET "/webfonts/fa-regular-400.woff2" for 127.0.0.1 at 2023-06-25 23:18:07 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-brands-400.woff2"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-regular-400.woff2"):
+  
+Started GET "/images/fulls/01.jpg" for 127.0.0.1 at 2023-06-25 23:18:07 -0400
+Started GET "/webfonts/fa-brands-400.woff" for 127.0.0.1 at 2023-06-25 23:18:07 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/images/fulls/01.jpg"):
+  
+Started GET "/webfonts/fa-regular-400.woff" for 127.0.0.1 at 2023-06-25 23:18:07 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-brands-400.woff"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-regular-400.woff"):
+  
+Started GET "/webfonts/fa-brands-400.ttf" for 127.0.0.1 at 2023-06-25 23:18:07 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-brands-400.ttf"):
+  
+Started GET "/webfonts/fa-regular-400.ttf" for 127.0.0.1 at 2023-06-25 23:18:07 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-regular-400.ttf"):
+  
+Started GET "/" for 127.0.0.1 at 2023-06-25 23:19:01 -0400
+Processing by PagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (Duration: 0.7ms | Allocations: 123)
+  Rendered layout layouts/application.html.erb (Duration: 19.8ms | Allocations: 17856)
+Completed 200 OK in 23ms (Views: 21.9ms | Allocations: 18765)
+
+
+Started GET "/app/assets/stylesheets/main.css" for 127.0.0.1 at 2023-06-25 23:19:01 -0400
+Started GET "/app/assets/webfonts" for 127.0.0.1 at 2023-06-25 23:19:01 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/app/assets/stylesheets/main.css"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/app/assets/webfonts"):
+  
+Started GET "/webfonts/fa-regular-400.woff2" for 127.0.0.1 at 2023-06-25 23:19:01 -0400
+Started GET "/webfonts/fa-brands-400.woff2" for 127.0.0.1 at 2023-06-25 23:19:01 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-regular-400.woff2"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-brands-400.woff2"):
+  
+Started GET "/images/fulls/01.jpg" for 127.0.0.1 at 2023-06-25 23:19:01 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/images/fulls/01.jpg"):
+  
+Started GET "/webfonts/fa-brands-400.woff" for 127.0.0.1 at 2023-06-25 23:19:01 -0400
+Started GET "/webfonts/fa-regular-400.woff" for 127.0.0.1 at 2023-06-25 23:19:01 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-brands-400.woff"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-regular-400.woff"):
+  
+Started GET "/webfonts/fa-brands-400.ttf" for 127.0.0.1 at 2023-06-25 23:19:01 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-brands-400.ttf"):
+  
+Started GET "/webfonts/fa-regular-400.ttf" for 127.0.0.1 at 2023-06-25 23:19:02 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-regular-400.ttf"):
+  
+Started GET "/" for 127.0.0.1 at 2023-06-25 23:20:55 -0400
+Processing by PagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (Duration: 0.2ms | Allocations: 7)
+  Rendered layout layouts/application.html.erb (Duration: 69.0ms | Allocations: 43457)
+Completed 200 OK in 70ms (Views: 69.5ms | Allocations: 43748)
+
+
+Started GET "/app/assets/stylesheets/main.css" for 127.0.0.1 at 2023-06-25 23:20:55 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/app/assets/stylesheets/main.css"):
+  
+Started GET "/webfonts/fa-regular-400.woff2" for 127.0.0.1 at 2023-06-25 23:20:55 -0400
+Started GET "/webfonts/fa-brands-400.woff2" for 127.0.0.1 at 2023-06-25 23:20:55 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-regular-400.woff2"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-brands-400.woff2"):
+  
+Started GET "/webfonts/fa-regular-400.woff" for 127.0.0.1 at 2023-06-25 23:20:55 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-regular-400.woff"):
+  
+Started GET "/webfonts/fa-brands-400.woff" for 127.0.0.1 at 2023-06-25 23:20:55 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-brands-400.woff"):
+  
+Started GET "/images/fulls/01.jpg" for 127.0.0.1 at 2023-06-25 23:20:55 -0400
+Started GET "/webfonts/fa-regular-400.ttf" for 127.0.0.1 at 2023-06-25 23:20:55 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/images/fulls/01.jpg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-regular-400.ttf"):
+  
+Started GET "/webfonts/fa-brands-400.ttf" for 127.0.0.1 at 2023-06-25 23:20:55 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-brands-400.ttf"):
+  
+Started GET "/webfonts/fa-brands-400.woff2" for 127.0.0.1 at 2023-06-26 00:09:05 -0400
+Started GET "/app/assets/stylesheets/main.css" for 127.0.0.1 at 2023-06-26 00:09:05 -0400
+Started GET "/webfonts/fa-regular-400.woff2" for 127.0.0.1 at 2023-06-26 00:09:05 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-regular-400.woff2"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/app/assets/stylesheets/main.css"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-brands-400.woff2"):
+  
+Started GET "/webfonts/fa-brands-400.woff" for 127.0.0.1 at 2023-06-26 00:09:06 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-brands-400.woff"):
+  
+Started GET "/webfonts/fa-regular-400.woff" for 127.0.0.1 at 2023-06-26 00:09:06 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-regular-400.woff"):
+  
+Started GET "/images/fulls/01.jpg" for 127.0.0.1 at 2023-06-26 00:09:06 -0400
+Started GET "/webfonts/fa-brands-400.ttf" for 127.0.0.1 at 2023-06-26 00:09:06 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/images/fulls/01.jpg"):
+  
+Started GET "/webfonts/fa-regular-400.ttf" for 127.0.0.1 at 2023-06-26 00:09:06 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-brands-400.ttf"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-regular-400.ttf"):
+  
+Started GET "/" for 127.0.0.1 at 2023-06-26 00:09:08 -0400
+Processing by PagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (Duration: 0.1ms | Allocations: 7)
+  Rendered layout layouts/application.html.erb (Duration: 138.0ms | Allocations: 43878)
+Completed 200 OK in 141ms (Views: 139.5ms | Allocations: 44147)
+
+
+Started GET "/app/assets/stylesheets/main.css" for 127.0.0.1 at 2023-06-26 00:09:08 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/app/assets/stylesheets/main.css"):
+  
+Started GET "/webfonts/fa-brands-400.woff2" for 127.0.0.1 at 2023-06-26 00:09:08 -0400
+Started GET "/webfonts/fa-regular-400.woff2" for 127.0.0.1 at 2023-06-26 00:09:08 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-brands-400.woff2"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-regular-400.woff2"):
+  
+Started GET "/images/fulls/01.jpg" for 127.0.0.1 at 2023-06-26 00:09:08 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/images/fulls/01.jpg"):
+  
+Started GET "/webfonts/fa-brands-400.woff" for 127.0.0.1 at 2023-06-26 00:09:08 -0400
+Started GET "/webfonts/fa-regular-400.woff" for 127.0.0.1 at 2023-06-26 00:09:08 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-regular-400.woff"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-brands-400.woff"):
+  
+Started GET "/webfonts/fa-regular-400.ttf" for 127.0.0.1 at 2023-06-26 00:09:08 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-regular-400.ttf"):
+  
+Started GET "/webfonts/fa-brands-400.ttf" for 127.0.0.1 at 2023-06-26 00:09:08 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-brands-400.ttf"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/application-9e0654b22829184a0aebb89ce46c696a9e80fe74d3463098673c1613a86e2a00.css"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/foto1-5b8960f616da96fa9eae3f6ea3ca0e1d580c1cbc63813e2fe3d69a1917eb0644.jpg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/foto2-a5fbcb178c8f057a7c519b6997f065615ef9a3549bfbb11ea425b4b31f7683bd.jpg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/foto3-f838c056540fbb2eb37f2c660dc67527712c5ac68e61ed65b759dde4b43c44a2.jpg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/ImagenDeApoyo-cdb85a59cbdd30d61d087030ae074321530e005a1e43859270dc3ab2801dffc7.jpg"):
+  
+Started GET "/pages" for 127.0.0.1 at 2023-06-26 00:09:45 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/pages"):
+  
+Started GET "/pages/index" for 127.0.0.1 at 2023-06-26 00:10:07 -0400
+Processing by PagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (Duration: 0.1ms | Allocations: 7)
+  Rendered layout layouts/application.html.erb (Duration: 25.5ms | Allocations: 17209)
+Completed 200 OK in 27ms (Views: 26.5ms | Allocations: 17478)
+
+
+Started GET "/pages/app/assets/stylesheets/main.css" for 127.0.0.1 at 2023-06-26 00:10:08 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/pages/app/assets/stylesheets/main.css"):
+  
+Started GET "/webfonts/fa-regular-400.woff2" for 127.0.0.1 at 2023-06-26 00:10:08 -0400
+Started GET "/webfonts/fa-brands-400.woff2" for 127.0.0.1 at 2023-06-26 00:10:08 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-regular-400.woff2"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-brands-400.woff2"):
+  
+Started GET "/webfonts/fa-regular-400.woff" for 127.0.0.1 at 2023-06-26 00:10:08 -0400
+Started GET "/webfonts/fa-brands-400.woff" for 127.0.0.1 at 2023-06-26 00:10:08 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-regular-400.woff"):
+  
+Started GET "/pages/images/fulls/01.jpg" for 127.0.0.1 at 2023-06-26 00:10:08 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-brands-400.woff"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/pages/images/fulls/01.jpg"):
+  
+Started GET "/webfonts/fa-regular-400.ttf" for 127.0.0.1 at 2023-06-26 00:10:08 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-regular-400.ttf"):
+  
+Started GET "/webfonts/fa-brands-400.ttf" for 127.0.0.1 at 2023-06-26 00:10:08 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-brands-400.ttf"):
+  
+Started GET "/pages/index" for 127.0.0.1 at 2023-06-26 00:33:32 -0400
+Processing by PagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (Duration: 4.3ms | Allocations: 123)
+  Rendered layout layouts/application.html.erb (Duration: 33.6ms | Allocations: 1748)
+Completed 500 Internal Server Error in 72ms (Allocations: 2647)
+
+
+  
+ActionView::SyntaxErrorInTemplate (Encountered a syntax error while rendering template: check <!DOCTYPE html>
+<html>
+  <head>
+    <title>DesafioAcelerarLens</title>
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <%= csrf_meta_tags %>
+    <%= csp_meta_tag %>
+
+    <%= stylesheet_link_tag "application", "data-turbo-track": "reload" %>
+    <%= javascript_importmap_tags %>
+    <link rel="stylesheet" href="app/assets/stylesheets/main.css"  />  
+    <noscript><link rel="stylesheet" href="app/assets/stylesheets/noscript.css " /></noscript>
+    
+  </head>
+
+  <body class="is-preload-0 is-preload-1 is-preload-2">
+    
+
+<!-- Main -->
+			<div id="main">
+
+				<!-- Header -->
+					<header id="header">
+						<h1>Lens</h1>
+						<p>Just another fine responsive site template by <a href="http://html5up.net">HTML5 UP</a></p>
+						<ul class="icons">
+							<li><a href="#" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
+							<li><a href="#" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
+							<li><a href="#" class="icon brands fa-github"><span class="label">Github</span></a></li>
+							<li><a href="#" class="icon fa-envelope"><span class="label">Email</span></a></li>
+						</ul>
+					</header>
+
+
+<!-- Thumbnail -->
+					<section id="thumbnails">
+						<article>
+							<a> <%= image_tag 'fulls/01.jpg', class:'thumbnail', data-position:'left center' %>
+							<%= image_tag 'thumbs/01.jpg' %></a>
+							<h2>Diam tempus accumsan</h2>
+							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+						</article>
+						<article>
+							<a class="thumbnail" href="images/fulls/02.jpg">
+							<%= image_tag 'thumbs/02.jpg' %></a>
+							<h2>Vivamus convallis libero</h2>
+							<p>Sed velit lacus, laoreet at venenatis convallis in lorem tincidunt.</p>
+						</article>
+						<article>
+							<a class="thumbnail" href="images/fulls/03.jpg" data-position="top center">
+							<%= image_tag 'thumbs/03.jpg' %></a>
+							<h2>Nec accumsan enim felis</h2>
+							<p>Maecenas eleifend tellus ut turpis eleifend, vitae pretium faucibus.</p>
+						</article>
+						<article>
+							<a class="thumbnail" href="images/fulls/04.jpg">
+							<%= image_tag 'thumbs/04.jpg' %></a>
+							<h2>Donec maximus nisi eget</h2>
+							<p>Tristique in nulla vel congue. Sed sociis natoque parturient nascetur.</p>
+						</article>
+						<article>
+							<a class="thumbnail" href="images/fulls/05.jpg" data-position="top center">
+							<%= image_tag 'thumbs/05.jpg' %></a>
+							<h2>Nullam vitae nunc vulputate</h2>
+							<p>In pellentesque cursus velit id posuere. Donec vehicula nulla.</p>
+						</article>
+						<article>
+							<a class="thumbnail" href="images/fulls/06.jpg">
+							<%= image_tag 'thumbs/06.jpg' %>
+							</a>
+							<h2>Phasellus magna faucibus</h2>
+							<p>Nulla dignissim libero maximus tellus varius dictum ut posuere magna.</p>
+						</article>
+						<article>
+							<a class="thumbnail" href="images/fulls/07.jpg">
+							<%= image_tag 'thumbs/07.jpg' %>
+							</a>
+							<h2>Proin quis mauris</h2>
+							<p>Etiam ultricies, lorem quis efficitur porttitor, facilisis ante orci urna.</p>
+						</article>
+						<article>
+							<a class="thumbnail" href="images/fulls/08.jpg">
+							<%= image_tag 'thumbs/08.jpg' %>
+							</a>
+							<h2>Gravida quis varius enim</h2>
+							<p>Nunc egestas congue lorem. Nullam dictum placerat ex sapien tortor mattis.</p>
+						</article>
+						<article>
+							<a class="thumbnail" href="images/fulls/09.jpg">
+							<%= image_tag 'thumbs/09.jpg' %>
+							</a>
+							<h2>Morbi eget vitae adipiscing</h2>
+							<p>In quis vulputate dui. Maecenas metus elit, dictum praesent lacinia lacus.</p>
+						</article>
+						<article>
+							<a class="thumbnail" href="images/fulls/10.jpg">
+							<%= image_tag 'thumbs/10.jpg' %>
+							</a>
+							<h2>Habitant tristique senectus</h2>
+							<p>Vestibulum ante ipsum primis in faucibus orci luctus ac tincidunt dolor.</p>
+						</article>
+						<article>
+							<a class="thumbnail" href="images/fulls/11.jpg">
+							<%= image_tag 'thumbs/11.jpg' %>
+							</a>
+							<h2>Pharetra ex non faucibus</h2>
+							<p>Ut sed magna euismod leo laoreet congue. Fusce congue enim ultricies.</p>
+						</article>
+						<article>
+							<a class="thumbnail" href="images/fulls/12.jpg">
+							<%= image_tag 'thumbs/12.jpg' %>
+							</a>
+							<h2>Mattis lorem sodales</h2>
+							<p>Feugiat auctor leo massa, nec vestibulum nisl erat faucibus, rutrum nulla.</p>
+						</article>
+					</section>
+
+
+	<!-- Footer -->
+					<footer id="footer">
+						<ul class="copyright">
+							<li>&copy; Untitled.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a>.</li>
+						</ul>
+					</footer>
+  </div>
+<%= yield %>
+	  <%= javascript_include_tag 'application' %>
+      <%= javascript_include_tag 'jquery.min' %>
+     <%= javascript_include_tag 'browser.min' %>
+      <%= javascript_include_tag 'breakpoints.min' %>
+      <%= javascript_include_tag 'main' %>
+
+
+
+  </body>
+</html>
+
+):
+1:    <!DOCTYPE html>
+2:    <html>
+3:      <head>
+4:        <title>DesafioAcelerarLens</title>
+5:        <meta name="viewport" content="width=device-width,initial-scale=1">
+6:        <%= csrf_meta_tags %>
+7:        <%= csp_meta_tag %>
+8:    
+9:        <%= stylesheet_link_tag "application", "data-turbo-track": "reload" %>
+10:        <%= javascript_importmap_tags %>
+11:        <link rel="stylesheet" href="app/assets/stylesheets/main.css"  />  
+12:        <noscript><link rel="stylesheet" href="app/assets/stylesheets/noscript.css " /></noscript>
+13:        
+14:      </head>
+15:    
+16:      <body class="is-preload-0 is-preload-1 is-preload-2">
+17:        
+18:    
+19:    <!-- Main -->
+20:    			<div id="main">
+21:    
+22:    				<!-- Header -->
+23:    					<header id="header">
+24:    						<h1>Lens</h1>
+25:    						<p>Just another fine responsive site template by <a href="http://html5up.net">HTML5 UP</a></p>
+26:    						<ul class="icons">
+27:    							<li><a href="#" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
+28:    							<li><a href="#" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
+29:    							<li><a href="#" class="icon brands fa-github"><span class="label">Github</span></a></li>
+30:    							<li><a href="#" class="icon fa-envelope"><span class="label">Email</span></a></li>
+31:    						</ul>
+32:    					</header>
+33:    
+34:    
+35:    <!-- Thumbnail -->
+36:    					<section id="thumbnails">
+37:    						<article>
+38:    							<a> <%= image_tag 'fulls/01.jpg', class:'thumbnail', data-position:'left center' %>
+39:    							<%= image_tag 'thumbs/01.jpg' %></a>
+40:    							<h2>Diam tempus accumsan</h2>
+41:    							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+42:    						</article>
+43:    						<article>
+44:    							<a class="thumbnail" href="images/fulls/02.jpg">
+45:    							<%= image_tag 'thumbs/02.jpg' %></a>
+46:    							<h2>Vivamus convallis libero</h2>
+47:    							<p>Sed velit lacus, laoreet at venenatis convallis in lorem tincidunt.</p>
+48:    						</article>
+49:    						<article>
+50:    							<a class="thumbnail" href="images/fulls/03.jpg" data-position="top center">
+51:    							<%= image_tag 'thumbs/03.jpg' %></a>
+52:    							<h2>Nec accumsan enim felis</h2>
+53:    							<p>Maecenas eleifend tellus ut turpis eleifend, vitae pretium faucibus.</p>
+54:    						</article>
+55:    						<article>
+56:    							<a class="thumbnail" href="images/fulls/04.jpg">
+57:    							<%= image_tag 'thumbs/04.jpg' %></a>
+58:    							<h2>Donec maximus nisi eget</h2>
+59:    							<p>Tristique in nulla vel congue. Sed sociis natoque parturient nascetur.</p>
+60:    						</article>
+61:    						<article>
+62:    							<a class="thumbnail" href="images/fulls/05.jpg" data-position="top center">
+63:    							<%= image_tag 'thumbs/05.jpg' %></a>
+64:    							<h2>Nullam vitae nunc vulputate</h2>
+65:    							<p>In pellentesque cursus velit id posuere. Donec vehicula nulla.</p>
+66:    						</article>
+67:    						<article>
+68:    							<a class="thumbnail" href="images/fulls/06.jpg">
+69:    							<%= image_tag 'thumbs/06.jpg' %>
+70:    							</a>
+71:    							<h2>Phasellus magna faucibus</h2>
+72:    							<p>Nulla dignissim libero maximus tellus varius dictum ut posuere magna.</p>
+73:    						</article>
+74:    						<article>
+75:    							<a class="thumbnail" href="images/fulls/07.jpg">
+76:    							<%= image_tag 'thumbs/07.jpg' %>
+77:    							</a>
+78:    							<h2>Proin quis mauris</h2>
+79:    							<p>Etiam ultricies, lorem quis efficitur porttitor, facilisis ante orci urna.</p>
+80:    						</article>
+81:    						<article>
+82:    							<a class="thumbnail" href="images/fulls/08.jpg">
+83:    							<%= image_tag 'thumbs/08.jpg' %>
+84:    							</a>
+85:    							<h2>Gravida quis varius enim</h2>
+86:    							<p>Nunc egestas congue lorem. Nullam dictum placerat ex sapien tortor mattis.</p>
+87:    						</article>
+88:    						<article>
+89:    							<a class="thumbnail" href="images/fulls/09.jpg">
+90:    							<%= image_tag 'thumbs/09.jpg' %>
+91:    							</a>
+92:    							<h2>Morbi eget vitae adipiscing</h2>
+93:    							<p>In quis vulputate dui. Maecenas metus elit, dictum praesent lacinia lacus.</p>
+94:    						</article>
+95:    						<article>
+96:    							<a class="thumbnail" href="images/fulls/10.jpg">
+97:    							<%= image_tag 'thumbs/10.jpg' %>
+98:    							</a>
+99:    							<h2>Habitant tristique senectus</h2>
+100:    							<p>Vestibulum ante ipsum primis in faucibus orci luctus ac tincidunt dolor.</p>
+101:    						</article>
+102:    						<article>
+103:    							<a class="thumbnail" href="images/fulls/11.jpg">
+104:    							<%= image_tag 'thumbs/11.jpg' %>
+105:    							</a>
+106:    							<h2>Pharetra ex non faucibus</h2>
+107:    							<p>Ut sed magna euismod leo laoreet congue. Fusce congue enim ultricies.</p>
+108:    						</article>
+109:    						<article>
+110:    							<a class="thumbnail" href="images/fulls/12.jpg">
+111:    							<%= image_tag 'thumbs/12.jpg' %>
+112:    							</a>
+113:    							<h2>Mattis lorem sodales</h2>
+114:    							<p>Feugiat auctor leo massa, nec vestibulum nisl erat faucibus, rutrum nulla.</p>
+115:    						</article>
+116:    					</section>
+117:    
+118:    
+119:    	<!-- Footer -->
+120:    					<footer id="footer">
+121:    						<ul class="copyright">
+122:    							<li>&copy; Untitled.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a>.</li>
+123:    						</ul>
+124:    					</footer>
+125:      </div>
+126:    <%= yield %>
+127:    	  <%= javascript_include_tag 'application' %>
+128:          <%= javascript_include_tag 'jquery.min' %>
+129:         <%= javascript_include_tag 'browser.min' %>
+130:          <%= javascript_include_tag 'breakpoints.min' %>
+131:          <%= javascript_include_tag 'main' %>
+132:    
+133:    
+134:    
+135:      </body>
+136:    </html>
+  
+app/views/layouts/application.html.erb:38: syntax error, unexpected symbol literal, expecting `do' or '{' or '('
+app/views/layouts/application.html.erb:38: syntax error, unexpected symbol literal, expecting `do' or '{' or '('
+app/views/layouts/application.html.erb:38: syntax error, unexpected symbol literal, expecting `do' or '{' or '('
+app/views/layouts/application.html.erb:38: syntax error, unexpected symbol literal, expecting `do' or '{' or '('
+app/views/layouts/application.html.erb:38: syntax error, unexpected symbol literal, expecting `do' or '{' or '('
+app/views/layouts/application.html.erb:38: syntax error, unexpected symbol literal, expecting `do' or '{' or '('
+Started GET "/pages/index" for 127.0.0.1 at 2023-06-26 00:36:16 -0400
+Processing by PagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (Duration: 0.8ms | Allocations: 126)
+  Rendered layout layouts/application.html.erb (Duration: 4.9ms | Allocations: 1732)
+Completed 500 Internal Server Error in 9ms (Allocations: 2633)
+
+
+  
+ActionView::SyntaxErrorInTemplate (Encountered a syntax error while rendering template: check <!DOCTYPE html>
+<html>
+  <head>
+    <title>DesafioAcelerarLens</title>
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <%= csrf_meta_tags %>
+    <%= csp_meta_tag %>
+
+    <%= stylesheet_link_tag "application", "data-turbo-track": "reload" %>
+    <%= javascript_importmap_tags %>
+    <link rel="stylesheet" href="app/assets/stylesheets/main.css"  />  
+    <noscript><link rel="stylesheet" href="app/assets/stylesheets/noscript.css " /></noscript>
+    
+  </head>
+
+  <body class="is-preload-0 is-preload-1 is-preload-2">
+    
+
+<!-- Main -->
+			<div id="main">
+
+				<!-- Header -->
+					<header id="header">
+						<h1>Lens</h1>
+						<p>Just another fine responsive site template by <a href="http://html5up.net">HTML5 UP</a></p>
+						<ul class="icons">
+							<li><a href="#" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
+							<li><a href="#" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
+							<li><a href="#" class="icon brands fa-github"><span class="label">Github</span></a></li>
+							<li><a href="#" class="icon fa-envelope"><span class="label">Email</span></a></li>
+						</ul>
+					</header>
+
+
+<!-- Thumbnail -->
+					<section id="thumbnails">
+						<article>
+							<a class = "thumbnail"> <%= image_tag 'fulls/01.jpg', data-position:'left center' %>
+							<%= image_tag 'thumbs/01.jpg' %></a>
+							<h2>Diam tempus accumsan</h2>
+							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+						</article>
+						<article>
+							<a class="thumbnail" href="images/fulls/02.jpg">
+							<%= image_tag 'thumbs/02.jpg' %></a>
+							<h2>Vivamus convallis libero</h2>
+							<p>Sed velit lacus, laoreet at venenatis convallis in lorem tincidunt.</p>
+						</article>
+						<article>
+							<a class="thumbnail" href="images/fulls/03.jpg" data-position="top center">
+							<%= image_tag 'thumbs/03.jpg' %></a>
+							<h2>Nec accumsan enim felis</h2>
+							<p>Maecenas eleifend tellus ut turpis eleifend, vitae pretium faucibus.</p>
+						</article>
+						<article>
+							<a class="thumbnail" href="images/fulls/04.jpg">
+							<%= image_tag 'thumbs/04.jpg' %></a>
+							<h2>Donec maximus nisi eget</h2>
+							<p>Tristique in nulla vel congue. Sed sociis natoque parturient nascetur.</p>
+						</article>
+						<article>
+							<a class="thumbnail" href="images/fulls/05.jpg" data-position="top center">
+							<%= image_tag 'thumbs/05.jpg' %></a>
+							<h2>Nullam vitae nunc vulputate</h2>
+							<p>In pellentesque cursus velit id posuere. Donec vehicula nulla.</p>
+						</article>
+						<article>
+							<a class="thumbnail" href="images/fulls/06.jpg">
+							<%= image_tag 'thumbs/06.jpg' %>
+							</a>
+							<h2>Phasellus magna faucibus</h2>
+							<p>Nulla dignissim libero maximus tellus varius dictum ut posuere magna.</p>
+						</article>
+						<article>
+							<a class="thumbnail" href="images/fulls/07.jpg">
+							<%= image_tag 'thumbs/07.jpg' %>
+							</a>
+							<h2>Proin quis mauris</h2>
+							<p>Etiam ultricies, lorem quis efficitur porttitor, facilisis ante orci urna.</p>
+						</article>
+						<article>
+							<a class="thumbnail" href="images/fulls/08.jpg">
+							<%= image_tag 'thumbs/08.jpg' %>
+							</a>
+							<h2>Gravida quis varius enim</h2>
+							<p>Nunc egestas congue lorem. Nullam dictum placerat ex sapien tortor mattis.</p>
+						</article>
+						<article>
+							<a class="thumbnail" href="images/fulls/09.jpg">
+							<%= image_tag 'thumbs/09.jpg' %>
+							</a>
+							<h2>Morbi eget vitae adipiscing</h2>
+							<p>In quis vulputate dui. Maecenas metus elit, dictum praesent lacinia lacus.</p>
+						</article>
+						<article>
+							<a class="thumbnail" href="images/fulls/10.jpg">
+							<%= image_tag 'thumbs/10.jpg' %>
+							</a>
+							<h2>Habitant tristique senectus</h2>
+							<p>Vestibulum ante ipsum primis in faucibus orci luctus ac tincidunt dolor.</p>
+						</article>
+						<article>
+							<a class="thumbnail" href="images/fulls/11.jpg">
+							<%= image_tag 'thumbs/11.jpg' %>
+							</a>
+							<h2>Pharetra ex non faucibus</h2>
+							<p>Ut sed magna euismod leo laoreet congue. Fusce congue enim ultricies.</p>
+						</article>
+						<article>
+							<a class="thumbnail" href="images/fulls/12.jpg">
+							<%= image_tag 'thumbs/12.jpg' %>
+							</a>
+							<h2>Mattis lorem sodales</h2>
+							<p>Feugiat auctor leo massa, nec vestibulum nisl erat faucibus, rutrum nulla.</p>
+						</article>
+					</section>
+
+
+	<!-- Footer -->
+					<footer id="footer">
+						<ul class="copyright">
+							<li>&copy; Untitled.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a>.</li>
+						</ul>
+					</footer>
+  </div>
+<%= yield %>
+	  <%= javascript_include_tag 'application' %>
+      <%= javascript_include_tag 'jquery.min' %>
+     <%= javascript_include_tag 'browser.min' %>
+      <%= javascript_include_tag 'breakpoints.min' %>
+      <%= javascript_include_tag 'main' %>
+
+
+
+  </body>
+</html>
+
+):
+1:    <!DOCTYPE html>
+2:    <html>
+3:      <head>
+4:        <title>DesafioAcelerarLens</title>
+5:        <meta name="viewport" content="width=device-width,initial-scale=1">
+6:        <%= csrf_meta_tags %>
+7:        <%= csp_meta_tag %>
+8:    
+9:        <%= stylesheet_link_tag "application", "data-turbo-track": "reload" %>
+10:        <%= javascript_importmap_tags %>
+11:        <link rel="stylesheet" href="app/assets/stylesheets/main.css"  />  
+12:        <noscript><link rel="stylesheet" href="app/assets/stylesheets/noscript.css " /></noscript>
+13:        
+14:      </head>
+15:    
+16:      <body class="is-preload-0 is-preload-1 is-preload-2">
+17:        
+18:    
+19:    <!-- Main -->
+20:    			<div id="main">
+21:    
+22:    				<!-- Header -->
+23:    					<header id="header">
+24:    						<h1>Lens</h1>
+25:    						<p>Just another fine responsive site template by <a href="http://html5up.net">HTML5 UP</a></p>
+26:    						<ul class="icons">
+27:    							<li><a href="#" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
+28:    							<li><a href="#" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
+29:    							<li><a href="#" class="icon brands fa-github"><span class="label">Github</span></a></li>
+30:    							<li><a href="#" class="icon fa-envelope"><span class="label">Email</span></a></li>
+31:    						</ul>
+32:    					</header>
+33:    
+34:    
+35:    <!-- Thumbnail -->
+36:    					<section id="thumbnails">
+37:    						<article>
+38:    							<a class = "thumbnail"> <%= image_tag 'fulls/01.jpg', data-position:'left center' %>
+39:    							<%= image_tag 'thumbs/01.jpg' %></a>
+40:    							<h2>Diam tempus accumsan</h2>
+41:    							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+42:    						</article>
+43:    						<article>
+44:    							<a class="thumbnail" href="images/fulls/02.jpg">
+45:    							<%= image_tag 'thumbs/02.jpg' %></a>
+46:    							<h2>Vivamus convallis libero</h2>
+47:    							<p>Sed velit lacus, laoreet at venenatis convallis in lorem tincidunt.</p>
+48:    						</article>
+49:    						<article>
+50:    							<a class="thumbnail" href="images/fulls/03.jpg" data-position="top center">
+51:    							<%= image_tag 'thumbs/03.jpg' %></a>
+52:    							<h2>Nec accumsan enim felis</h2>
+53:    							<p>Maecenas eleifend tellus ut turpis eleifend, vitae pretium faucibus.</p>
+54:    						</article>
+55:    						<article>
+56:    							<a class="thumbnail" href="images/fulls/04.jpg">
+57:    							<%= image_tag 'thumbs/04.jpg' %></a>
+58:    							<h2>Donec maximus nisi eget</h2>
+59:    							<p>Tristique in nulla vel congue. Sed sociis natoque parturient nascetur.</p>
+60:    						</article>
+61:    						<article>
+62:    							<a class="thumbnail" href="images/fulls/05.jpg" data-position="top center">
+63:    							<%= image_tag 'thumbs/05.jpg' %></a>
+64:    							<h2>Nullam vitae nunc vulputate</h2>
+65:    							<p>In pellentesque cursus velit id posuere. Donec vehicula nulla.</p>
+66:    						</article>
+67:    						<article>
+68:    							<a class="thumbnail" href="images/fulls/06.jpg">
+69:    							<%= image_tag 'thumbs/06.jpg' %>
+70:    							</a>
+71:    							<h2>Phasellus magna faucibus</h2>
+72:    							<p>Nulla dignissim libero maximus tellus varius dictum ut posuere magna.</p>
+73:    						</article>
+74:    						<article>
+75:    							<a class="thumbnail" href="images/fulls/07.jpg">
+76:    							<%= image_tag 'thumbs/07.jpg' %>
+77:    							</a>
+78:    							<h2>Proin quis mauris</h2>
+79:    							<p>Etiam ultricies, lorem quis efficitur porttitor, facilisis ante orci urna.</p>
+80:    						</article>
+81:    						<article>
+82:    							<a class="thumbnail" href="images/fulls/08.jpg">
+83:    							<%= image_tag 'thumbs/08.jpg' %>
+84:    							</a>
+85:    							<h2>Gravida quis varius enim</h2>
+86:    							<p>Nunc egestas congue lorem. Nullam dictum placerat ex sapien tortor mattis.</p>
+87:    						</article>
+88:    						<article>
+89:    							<a class="thumbnail" href="images/fulls/09.jpg">
+90:    							<%= image_tag 'thumbs/09.jpg' %>
+91:    							</a>
+92:    							<h2>Morbi eget vitae adipiscing</h2>
+93:    							<p>In quis vulputate dui. Maecenas metus elit, dictum praesent lacinia lacus.</p>
+94:    						</article>
+95:    						<article>
+96:    							<a class="thumbnail" href="images/fulls/10.jpg">
+97:    							<%= image_tag 'thumbs/10.jpg' %>
+98:    							</a>
+99:    							<h2>Habitant tristique senectus</h2>
+100:    							<p>Vestibulum ante ipsum primis in faucibus orci luctus ac tincidunt dolor.</p>
+101:    						</article>
+102:    						<article>
+103:    							<a class="thumbnail" href="images/fulls/11.jpg">
+104:    							<%= image_tag 'thumbs/11.jpg' %>
+105:    							</a>
+106:    							<h2>Pharetra ex non faucibus</h2>
+107:    							<p>Ut sed magna euismod leo laoreet congue. Fusce congue enim ultricies.</p>
+108:    						</article>
+109:    						<article>
+110:    							<a class="thumbnail" href="images/fulls/12.jpg">
+111:    							<%= image_tag 'thumbs/12.jpg' %>
+112:    							</a>
+113:    							<h2>Mattis lorem sodales</h2>
+114:    							<p>Feugiat auctor leo massa, nec vestibulum nisl erat faucibus, rutrum nulla.</p>
+115:    						</article>
+116:    					</section>
+117:    
+118:    
+119:    	<!-- Footer -->
+120:    					<footer id="footer">
+121:    						<ul class="copyright">
+122:    							<li>&copy; Untitled.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a>.</li>
+123:    						</ul>
+124:    					</footer>
+125:      </div>
+126:    <%= yield %>
+127:    	  <%= javascript_include_tag 'application' %>
+128:          <%= javascript_include_tag 'jquery.min' %>
+129:         <%= javascript_include_tag 'browser.min' %>
+130:          <%= javascript_include_tag 'breakpoints.min' %>
+131:          <%= javascript_include_tag 'main' %>
+132:    
+133:    
+134:    
+135:      </body>
+136:    </html>
+  
+app/views/layouts/application.html.erb:38: syntax error, unexpected symbol literal, expecting `do' or '{' or '('
+app/views/layouts/application.html.erb:38: syntax error, unexpected symbol literal, expecting `do' or '{' or '('
+app/views/layouts/application.html.erb:38: syntax error, unexpected symbol literal, expecting `do' or '{' or '('
+app/views/layouts/application.html.erb:38: syntax error, unexpected symbol literal, expecting `do' or '{' or '('
+app/views/layouts/application.html.erb:38: syntax error, unexpected symbol literal, expecting `do' or '{' or '('
+app/views/layouts/application.html.erb:38: syntax error, unexpected symbol literal, expecting `do' or '{' or '('
+Started GET "/pages/index" for 127.0.0.1 at 2023-06-26 00:37:49 -0400
+Processing by PagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (Duration: 0.9ms | Allocations: 123)
+  Rendered layout layouts/application.html.erb (Duration: 47.1ms | Allocations: 18706)
+Completed 200 OK in 51ms (Views: 49.4ms | Allocations: 19631)
+
+
+Started GET "/pages/app/assets/stylesheets/main.css" for 127.0.0.1 at 2023-06-26 00:37:49 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/pages/app/assets/stylesheets/main.css"):
+  
+Started GET "/webfonts/fa-brands-400.woff2" for 127.0.0.1 at 2023-06-26 00:37:49 -0400
+Started GET "/webfonts/fa-regular-400.woff2" for 127.0.0.1 at 2023-06-26 00:37:49 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-brands-400.woff2"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-regular-400.woff2"):
+  
+Started GET "/webfonts/fa-brands-400.woff" for 127.0.0.1 at 2023-06-26 00:37:49 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-brands-400.woff"):
+  
+Started GET "/webfonts/fa-regular-400.woff" for 127.0.0.1 at 2023-06-26 00:37:49 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-regular-400.woff"):
+  
+Started GET "/pages/undefined" for 127.0.0.1 at 2023-06-26 00:37:49 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/pages/undefined"):
+  
+Started GET "/webfonts/fa-brands-400.ttf" for 127.0.0.1 at 2023-06-26 00:37:49 -0400
+Started GET "/webfonts/fa-regular-400.ttf" for 127.0.0.1 at 2023-06-26 00:37:49 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-brands-400.ttf"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-regular-400.ttf"):
+  
+Started GET "/pages/index" for 127.0.0.1 at 2023-06-26 00:41:20 -0400
+Processing by PagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (Duration: 0.9ms | Allocations: 123)
+  Rendered layout layouts/application.html.erb (Duration: 38.5ms | Allocations: 18722)
+Completed 200 OK in 46ms (Views: 43.6ms | Allocations: 19647)
+
+
+Started GET "/pages/app/assets/stylesheets/main.css" for 127.0.0.1 at 2023-06-26 00:41:20 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/pages/app/assets/stylesheets/main.css"):
+  
+Started GET "/pages/undefined" for 127.0.0.1 at 2023-06-26 00:41:20 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/pages/undefined"):
+  
+Started GET "/pages/index" for 127.0.0.1 at 2023-06-26 00:44:24 -0400
+Processing by PagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (Duration: 0.7ms | Allocations: 123)
+  Rendered layout layouts/application.html.erb (Duration: 24.6ms | Allocations: 18193)
+Completed 200 OK in 32ms (Views: 31.4ms | Allocations: 19121)
+
+
+Started GET "/pages/app/assets/stylesheets/main.css" for 127.0.0.1 at 2023-06-26 00:44:24 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/pages/app/assets/stylesheets/main.css"):
+  
+Started GET "/webfonts/fa-brands-400.woff2" for 127.0.0.1 at 2023-06-26 00:44:24 -0400
+Started GET "/webfonts/fa-regular-400.woff2" for 127.0.0.1 at 2023-06-26 00:44:24 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-brands-400.woff2"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-regular-400.woff2"):
+  
+Started GET "/webfonts/fa-brands-400.woff" for 127.0.0.1 at 2023-06-26 00:44:24 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-brands-400.woff"):
+  
+Started GET "/webfonts/fa-regular-400.woff" for 127.0.0.1 at 2023-06-26 00:44:24 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-regular-400.woff"):
+  
+Started GET "/pages/app/assets/images/fulls/01.jpg" for 127.0.0.1 at 2023-06-26 00:44:24 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/pages/app/assets/images/fulls/01.jpg"):
+  
+Started GET "/webfonts/fa-brands-400.ttf" for 127.0.0.1 at 2023-06-26 00:44:24 -0400
+Started GET "/webfonts/fa-regular-400.ttf" for 127.0.0.1 at 2023-06-26 00:44:24 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-brands-400.ttf"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-regular-400.ttf"):
+  
+Started GET "/pages/index" for 127.0.0.1 at 2023-06-26 00:45:26 -0400
+Processing by PagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (Duration: 2.1ms | Allocations: 123)
+  Rendered layout layouts/application.html.erb (Duration: 27.8ms | Allocations: 18186)
+Completed 200 OK in 32ms (Views: 30.7ms | Allocations: 19112)
+
+
+Started GET "/pages/app/assets/stylesheets/main.css" for 127.0.0.1 at 2023-06-26 00:45:26 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/pages/app/assets/stylesheets/main.css"):
+  
+Started GET "/webfonts/fa-regular-400.woff2" for 127.0.0.1 at 2023-06-26 00:45:26 -0400
+Started GET "/webfonts/fa-brands-400.woff2" for 127.0.0.1 at 2023-06-26 00:45:26 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-regular-400.woff2"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-brands-400.woff2"):
+  
+Started GET "/webfonts/fa-regular-400.woff" for 127.0.0.1 at 2023-06-26 00:45:26 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-regular-400.woff"):
+  
+Started GET "/webfonts/fa-brands-400.woff" for 127.0.0.1 at 2023-06-26 00:45:26 -0400
+Started GET "/pages/app/assets/images/fulls/01.jpg" for 127.0.0.1 at 2023-06-26 00:45:26 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-brands-400.woff"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/pages/app/assets/images/fulls/01.jpg"):
+  
+Started GET "/webfonts/fa-regular-400.ttf" for 127.0.0.1 at 2023-06-26 00:45:26 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-regular-400.ttf"):
+  
+Started GET "/webfonts/fa-brands-400.ttf" for 127.0.0.1 at 2023-06-26 00:45:26 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-brands-400.ttf"):
+  
+Started GET "/pages/index" for 127.0.0.1 at 2023-06-26 00:45:29 -0400
+Processing by PagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (Duration: 0.0ms | Allocations: 7)
+  Rendered layout layouts/application.html.erb (Duration: 19.5ms | Allocations: 17200)
+Completed 200 OK in 20ms (Views: 19.9ms | Allocations: 17487)
+
+
+Started GET "/pages/app/assets/stylesheets/main.css" for 127.0.0.1 at 2023-06-26 00:45:29 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/pages/app/assets/stylesheets/main.css"):
+  
+Started GET "/webfonts/fa-brands-400.woff2" for 127.0.0.1 at 2023-06-26 00:45:29 -0400
+Started GET "/webfonts/fa-regular-400.woff2" for 127.0.0.1 at 2023-06-26 00:45:29 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-brands-400.woff2"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-regular-400.woff2"):
+  
+Started GET "/webfonts/fa-brands-400.woff" for 127.0.0.1 at 2023-06-26 00:45:29 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-brands-400.woff"):
+  
+Started GET "/webfonts/fa-regular-400.woff" for 127.0.0.1 at 2023-06-26 00:45:29 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-regular-400.woff"):
+  
+Started GET "/pages/app/assets/images/fulls/01.jpg" for 127.0.0.1 at 2023-06-26 00:45:30 -0400
+Started GET "/webfonts/fa-brands-400.ttf" for 127.0.0.1 at 2023-06-26 00:45:30 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/pages/app/assets/images/fulls/01.jpg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-brands-400.ttf"):
+  
+Started GET "/webfonts/fa-regular-400.ttf" for 127.0.0.1 at 2023-06-26 00:45:30 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-regular-400.ttf"):
+  
+Started GET "/pages/index" for 127.0.0.1 at 2023-06-26 00:54:13 -0400
+  
+SyntaxError (/home/raul-gall/desafioAcelerarLens/config/routes.rb:12: syntax error, unexpected `end', expecting end-of-input):
+  
+config/routes.rb:12: syntax error, unexpected `end', expecting end-of-input
+config/routes.rb:12: syntax error, unexpected `end', expecting end-of-input
+config/routes.rb:12: syntax error, unexpected `end', expecting end-of-input
+Started GET "/pages/index" for 127.0.0.1 at 2023-06-26 00:54:30 -0400
+  
+SyntaxError (/home/raul-gall/desafioAcelerarLens/config/routes.rb:12: syntax error, unexpected `end', expecting end-of-input):
+  
+config/routes.rb:12: syntax error, unexpected `end', expecting end-of-input
+config/routes.rb:12: syntax error, unexpected `end', expecting end-of-input
+config/routes.rb:12: syntax error, unexpected `end', expecting end-of-input
+Started GET "/pages/index" for 127.0.0.1 at 2023-06-26 00:54:33 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/pages/index"):
+  
+Started GET "/pages/index" for 127.0.0.1 at 2023-06-26 00:56:09 -0400
+  
+SyntaxError (/home/raul-gall/desafioAcelerarLens/app/controllers/application_controller.rb:5: syntax error, unexpected end-of-input, expecting `end'
+  end
+     ^
+):
+  
+app/controllers/application_controller.rb:5: syntax error, unexpected end-of-input, expecting `end'
+app/controllers/application_controller.rb:5: syntax error, unexpected end-of-input, expecting `end'
+app/controllers/application_controller.rb:5: syntax error, unexpected end-of-input, expecting `end'
+app/controllers/pages_controller.rb:1:in `<main>'
+Started GET "/" for 127.0.0.1 at 2023-06-26 19:47:08 -0400
+  
+SyntaxError (/home/raul-gall/desafioAcelerarLens/app/controllers/application_controller.rb:5: syntax error, unexpected end-of-input, expecting `end'
+  end
+     ^
+):
+  
+app/controllers/application_controller.rb:5: syntax error, unexpected end-of-input, expecting `end'
+app/controllers/application_controller.rb:5: syntax error, unexpected end-of-input, expecting `end'
+app/controllers/application_controller.rb:5: syntax error, unexpected end-of-input, expecting `end'
+app/controllers/pages_controller.rb:1:in `<main>'
+Started GET "/" for 127.0.0.1 at 2023-06-26 19:47:41 -0400
+  
+NameError (undefined local variable or method `with' for ApplicationController:Class
+
+protect_from_forgery with::exception
+                     ^^^^):
+  
+app/controllers/application_controller.rb:2:in `<class:ApplicationController>'
+app/controllers/application_controller.rb:1:in `<main>'
+app/controllers/pages_controller.rb:1:in `<main>'
+Started GET "/" for 127.0.0.1 at 2023-06-26 19:48:20 -0400
+Processing by PagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (Duration: 1.6ms | Allocations: 125)
+  Rendered layout layouts/application.html.erb (Duration: 261.5ms | Allocations: 100921)
+Completed 200 OK in 269ms (Views: 263.0ms | Allocations: 103233)
+
+
+Started GET "/app/assets/stylesheets/main.css" for 127.0.0.1 at 2023-06-26 19:48:20 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/app/assets/stylesheets/main.css"):
+  
+Started GET "/webfonts/fa-regular-400.woff2" for 127.0.0.1 at 2023-06-26 19:48:20 -0400
+Started GET "/webfonts/fa-brands-400.woff2" for 127.0.0.1 at 2023-06-26 19:48:20 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-regular-400.woff2"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-brands-400.woff2"):
+  
+Started GET "/webfonts/fa-brands-400.woff" for 127.0.0.1 at 2023-06-26 19:48:21 -0400
+Started GET "/webfonts/fa-regular-400.woff" for 127.0.0.1 at 2023-06-26 19:48:21 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-brands-400.woff"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-regular-400.woff"):
+  
+Started GET "/webfonts/fa-brands-400.ttf" for 127.0.0.1 at 2023-06-26 19:48:21 -0400
+Started GET "/webfonts/fa-regular-400.ttf" for 127.0.0.1 at 2023-06-26 19:48:21 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-brands-400.ttf"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-regular-400.ttf"):
+  
+Started GET "/app/assets/images/fulls/01.jpg" for 127.0.0.1 at 2023-06-26 19:48:21 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/app/assets/images/fulls/01.jpg"):
+  
+Started GET "/" for 127.0.0.1 at 2023-06-26 19:57:23 -0400
+Processing by PagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (Duration: 3.8ms | Allocations: 123)
+  Rendered layout layouts/application.html.erb (Duration: 41.5ms | Allocations: 18153)
+Completed 200 OK in 46ms (Views: 44.6ms | Allocations: 19087)
+
+
+Started GET "/app/assets/stylesheets/main.css" for 127.0.0.1 at 2023-06-26 19:57:23 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/app/assets/stylesheets/main.css"):
+  
+Started GET "/webfonts/fa-brands-400.woff2" for 127.0.0.1 at 2023-06-26 19:57:23 -0400
+Started GET "/webfonts/fa-regular-400.woff2" for 127.0.0.1 at 2023-06-26 19:57:23 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-brands-400.woff2"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-regular-400.woff2"):
+  
+Started GET "/webfonts/fa-brands-400.woff" for 127.0.0.1 at 2023-06-26 19:57:23 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-brands-400.woff"):
+  
+Started GET "/webfonts/fa-regular-400.woff" for 127.0.0.1 at 2023-06-26 19:57:23 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-regular-400.woff"):
+  
+Started GET "/app/assets/images/fulls/01.jpg" for 127.0.0.1 at 2023-06-26 19:57:23 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/app/assets/images/fulls/01.jpg"):
+  
+Started GET "/webfonts/fa-brands-400.ttf" for 127.0.0.1 at 2023-06-26 19:57:23 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-brands-400.ttf"):
+  
+Started GET "/webfonts/fa-regular-400.ttf" for 127.0.0.1 at 2023-06-26 19:57:23 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-regular-400.ttf"):
+  
+Started GET "/" for 127.0.0.1 at 2023-06-26 19:59:28 -0400
+Processing by PagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (Duration: 0.9ms | Allocations: 127)
+  Rendered layout layouts/application.html.erb (Duration: 27.1ms | Allocations: 18174)
+Completed 200 OK in 40ms (Views: 36.4ms | Allocations: 19101)
+
+
+Started GET "/app/assets/stylesheets/main.css" for 127.0.0.1 at 2023-06-26 19:59:28 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/app/assets/stylesheets/main.css"):
+  
+Started GET "/webfonts/fa-brands-400.woff2" for 127.0.0.1 at 2023-06-26 19:59:28 -0400
+Started GET "/webfonts/fa-regular-400.woff2" for 127.0.0.1 at 2023-06-26 19:59:28 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-brands-400.woff2"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-regular-400.woff2"):
+  
+Started GET "/webfonts/fa-brands-400.woff" for 127.0.0.1 at 2023-06-26 19:59:28 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-brands-400.woff"):
+  
+Started GET "/webfonts/fa-regular-400.woff" for 127.0.0.1 at 2023-06-26 19:59:28 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-regular-400.woff"):
+  
+Started GET "/app/assets/images/fulls/01.jpg" for 127.0.0.1 at 2023-06-26 19:59:29 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/app/assets/images/fulls/01.jpg"):
+  
+Started GET "/webfonts/fa-brands-400.ttf" for 127.0.0.1 at 2023-06-26 19:59:29 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-brands-400.ttf"):
+  
+Started GET "/webfonts/fa-regular-400.ttf" for 127.0.0.1 at 2023-06-26 19:59:29 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-regular-400.ttf"):
+  
+Started GET "/" for 127.0.0.1 at 2023-06-26 19:59:31 -0400
+Processing by PagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (Duration: 0.0ms | Allocations: 7)
+  Rendered layout layouts/application.html.erb (Duration: 23.2ms | Allocations: 17185)
+Completed 200 OK in 24ms (Views: 23.8ms | Allocations: 17472)
+
+
+Started GET "/app/assets/stylesheets/main.css" for 127.0.0.1 at 2023-06-26 19:59:31 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/app/assets/stylesheets/main.css"):
+  
+Started GET "/webfonts/fa-regular-400.woff2" for 127.0.0.1 at 2023-06-26 19:59:31 -0400
+Started GET "/webfonts/fa-brands-400.woff2" for 127.0.0.1 at 2023-06-26 19:59:31 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-regular-400.woff2"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-brands-400.woff2"):
+  
+Started GET "/app/assets/images/fulls/01.jpg" for 127.0.0.1 at 2023-06-26 19:59:31 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/app/assets/images/fulls/01.jpg"):
+  
+Started GET "/webfonts/fa-regular-400.woff" for 127.0.0.1 at 2023-06-26 19:59:31 -0400
+Started GET "/webfonts/fa-brands-400.woff" for 127.0.0.1 at 2023-06-26 19:59:31 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-brands-400.woff"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-regular-400.woff"):
+  
+Started GET "/webfonts/fa-brands-400.ttf" for 127.0.0.1 at 2023-06-26 19:59:31 -0400
+Started GET "/webfonts/fa-regular-400.ttf" for 127.0.0.1 at 2023-06-26 19:59:31 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-brands-400.ttf"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-regular-400.ttf"):
+  
+Started GET "/" for 127.0.0.1 at 2023-06-26 20:33:22 -0400
+Processing by PagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (Duration: 5.1ms | Allocations: 123)
+  Rendered layout layouts/application.html.erb (Duration: 150.0ms | Allocations: 18157)
+Completed 200 OK in 182ms (Views: 170.4ms | Allocations: 19067)
+
+
+Started GET "/app/assets/stylesheets/main.css" for 127.0.0.1 at 2023-06-26 20:33:22 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/app/assets/stylesheets/main.css"):
+  
+Started GET "/webfonts/fa-brands-400.woff2" for 127.0.0.1 at 2023-06-26 20:33:22 -0400
+Started GET "/webfonts/fa-regular-400.woff2" for 127.0.0.1 at 2023-06-26 20:33:22 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-brands-400.woff2"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-regular-400.woff2"):
+  
+Started GET "/app/assets/images/fulls/01.jpg" for 127.0.0.1 at 2023-06-26 20:33:22 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/app/assets/images/fulls/01.jpg"):
+  
+Started GET "/webfonts/fa-regular-400.woff" for 127.0.0.1 at 2023-06-26 20:33:22 -0400
+Started GET "/webfonts/fa-brands-400.woff" for 127.0.0.1 at 2023-06-26 20:33:22 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-regular-400.woff"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-brands-400.woff"):
+  
+Started GET "/webfonts/fa-regular-400.ttf" for 127.0.0.1 at 2023-06-26 20:33:22 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-regular-400.ttf"):
+  
+Started GET "/webfonts/fa-brands-400.ttf" for 127.0.0.1 at 2023-06-26 20:33:22 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-brands-400.ttf"):
+  
+Started GET "/" for 127.0.0.1 at 2023-06-26 20:36:17 -0400
+Processing by PagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (Duration: 0.0ms | Allocations: 7)
+  Rendered layout layouts/application.html.erb (Duration: 92.6ms | Allocations: 24759)
+Completed 200 OK in 95ms (Views: 94.2ms | Allocations: 25046)
+
+
+Started GET "/app/assets/stylesheets/main.css" for 127.0.0.1 at 2023-06-26 20:36:17 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/app/assets/stylesheets/main.css"):
+  
+Started GET "/webfonts/fa-regular-400.woff2" for 127.0.0.1 at 2023-06-26 20:36:17 -0400
+Started GET "/webfonts/fa-brands-400.woff2" for 127.0.0.1 at 2023-06-26 20:36:17 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-regular-400.woff2"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-brands-400.woff2"):
+  
+Started GET "/app/assets/images/fulls/01.jpg" for 127.0.0.1 at 2023-06-26 20:36:18 -0400
+Started GET "/webfonts/fa-regular-400.woff" for 127.0.0.1 at 2023-06-26 20:36:18 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/app/assets/images/fulls/01.jpg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-regular-400.woff"):
+  
+Started GET "/webfonts/fa-brands-400.woff" for 127.0.0.1 at 2023-06-26 20:36:18 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-brands-400.woff"):
+  
+Started GET "/webfonts/fa-regular-400.ttf" for 127.0.0.1 at 2023-06-26 20:36:18 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-regular-400.ttf"):
+  
+Started GET "/webfonts/fa-brands-400.ttf" for 127.0.0.1 at 2023-06-26 20:36:18 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-brands-400.ttf"):
+  
+Started GET "/" for 127.0.0.1 at 2023-06-26 22:20:48 -0400
+Processing by PagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (Duration: 0.9ms | Allocations: 335)
+  Rendered shared/_header.html.erb (Duration: 0.6ms | Allocations: 119)
+  Rendered shared/_footer.html.erb (Duration: 0.4ms | Allocations: 99)
+  Rendered layout layouts/application.html.erb (Duration: 218.0ms | Allocations: 99049)
+Completed 200 OK in 229ms (Views: 221.0ms | ActiveRecord: 0.0ms | Allocations: 103205)
+
+
+Started GET "/app/assets/stylesheets/main.css" for 127.0.0.1 at 2023-06-26 22:20:48 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/app/assets/stylesheets/main.css"):
+  
+Started GET "/webfonts/fa-regular-400.woff2" for 127.0.0.1 at 2023-06-26 22:20:48 -0400
+Started GET "/webfonts/fa-brands-400.woff2" for 127.0.0.1 at 2023-06-26 22:20:48 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-regular-400.woff2"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-brands-400.woff2"):
+  
+Started GET "/webfonts/fa-regular-400.woff" for 127.0.0.1 at 2023-06-26 22:20:49 -0400
+Started GET "/webfonts/fa-brands-400.woff" for 127.0.0.1 at 2023-06-26 22:20:49 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-regular-400.woff"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-brands-400.woff"):
+  
+Started GET "/app/assets/images/fulls/01.jpg" for 127.0.0.1 at 2023-06-26 22:20:49 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/app/assets/images/fulls/01.jpg"):
+  
+Started GET "/webfonts/fa-regular-400.ttf" for 127.0.0.1 at 2023-06-26 22:20:49 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-regular-400.ttf"):
+  
+Started GET "/webfonts/fa-brands-400.ttf" for 127.0.0.1 at 2023-06-26 22:20:49 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-brands-400.ttf"):
+  
+Started GET "/" for ::1 at 2023-06-26 23:16:09 -0400
+Processing by PagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (Duration: 54.0ms | Allocations: 6366)
+  Rendered shared/_header.html.erb (Duration: 1.5ms | Allocations: 106)
+  Rendered shared/_footer.html.erb (Duration: 3.0ms | Allocations: 98)
+  Rendered layout layouts/application.html.erb (Duration: 112.9ms | Allocations: 18592)
+Completed 200 OK in 148ms (Views: 137.9ms | Allocations: 19531)
+
+
+Started GET "/app/assets/stylesheets/main.css" for ::1 at 2023-06-26 23:16:09 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/app/assets/stylesheets/main.css"):
+  
+Started GET "/" for 127.0.0.1 at 2023-06-26 23:19:09 -0400
+Processing by PagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (Duration: 45.3ms | Allocations: 6341)
+  Rendered shared/_header.html.erb (Duration: 0.7ms | Allocations: 106)
+  Rendered shared/_footer.html.erb (Duration: 0.6ms | Allocations: 98)
+  Rendered layout layouts/application.html.erb (Duration: 81.4ms | Allocations: 18494)
+Completed 200 OK in 94ms (Views: 91.6ms | Allocations: 19418)
+
+
+Started GET "/app/assets/stylesheets/main.css" for 127.0.0.1 at 2023-06-26 23:19:09 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/app/assets/stylesheets/main.css"):
+  
+Started GET "/webfonts/fa-regular-400.woff2" for 127.0.0.1 at 2023-06-26 23:19:09 -0400
+Started GET "/webfonts/fa-brands-400.woff2" for 127.0.0.1 at 2023-06-26 23:19:09 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-regular-400.woff2"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-brands-400.woff2"):
+  
+Started GET "/webfonts/fa-regular-400.woff" for 127.0.0.1 at 2023-06-26 23:19:10 -0400
+Started GET "/webfonts/fa-brands-400.woff" for 127.0.0.1 at 2023-06-26 23:19:10 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-regular-400.woff"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-brands-400.woff"):
+  
+Started GET "/webfonts/fa-regular-400.ttf" for 127.0.0.1 at 2023-06-26 23:19:10 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-regular-400.ttf"):
+  
+Started GET "/webfonts/fa-brands-400.ttf" for 127.0.0.1 at 2023-06-26 23:19:10 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-brands-400.ttf"):
+  
+Started GET "/images/fulls/04.jpg" for 127.0.0.1 at 2023-06-26 23:19:19 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/images/fulls/04.jpg"):
+  
+Started GET "/" for 127.0.0.1 at 2023-06-26 23:19:47 -0400
+Processing by PagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (Duration: 4.4ms | Allocations: 5821)
+  Rendered shared/_header.html.erb (Duration: 0.0ms | Allocations: 9)
+  Rendered shared/_footer.html.erb (Duration: 0.0ms | Allocations: 8)
+  Rendered layout layouts/application.html.erb (Duration: 22.8ms | Allocations: 17387)
+Completed 200 OK in 24ms (Views: 23.4ms | Allocations: 17679)
+
+
+Started GET "/app/assets/stylesheets/main.css" for 127.0.0.1 at 2023-06-26 23:19:47 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/app/assets/stylesheets/main.css"):
+  
+Started GET "/webfonts/fa-brands-400.woff2" for 127.0.0.1 at 2023-06-26 23:19:47 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-brands-400.woff2"):
+  
+Started GET "/webfonts/fa-regular-400.woff2" for 127.0.0.1 at 2023-06-26 23:19:47 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-regular-400.woff2"):
+  
+Started GET "/webfonts/fa-regular-400.woff" for 127.0.0.1 at 2023-06-26 23:19:47 -0400
+Started GET "/webfonts/fa-brands-400.woff" for 127.0.0.1 at 2023-06-26 23:19:47 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-regular-400.woff"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-brands-400.woff"):
+  
+Started GET "/webfonts/fa-regular-400.ttf" for 127.0.0.1 at 2023-06-26 23:19:47 -0400
+Started GET "/webfonts/fa-brands-400.ttf" for 127.0.0.1 at 2023-06-26 23:19:47 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-regular-400.ttf"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-brands-400.ttf"):
+  
+Started GET "/" for 127.0.0.1 at 2023-06-26 23:23:14 -0400
+Processing by PagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (Duration: 24.3ms | Allocations: 5394)
+  Rendered shared/_header.html.erb (Duration: 0.7ms | Allocations: 106)
+  Rendered shared/_footer.html.erb (Duration: 1.1ms | Allocations: 98)
+  Rendered layout layouts/application.html.erb (Duration: 60.6ms | Allocations: 17722)
+Completed 200 OK in 66ms (Views: 64.4ms | Allocations: 18630)
+
+
+Started GET "/app/assets/stylesheets/main.css" for 127.0.0.1 at 2023-06-26 23:23:14 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/app/assets/stylesheets/main.css"):
+  
+Started GET "/webfonts/fa-brands-400.woff2" for 127.0.0.1 at 2023-06-26 23:23:14 -0400
+Started GET "/webfonts/fa-regular-400.woff2" for 127.0.0.1 at 2023-06-26 23:23:14 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-brands-400.woff2"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-regular-400.woff2"):
+  
+Started GET "/webfonts/fa-brands-400.woff" for 127.0.0.1 at 2023-06-26 23:23:14 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-brands-400.woff"):
+  
+Started GET "/webfonts/fa-regular-400.woff" for 127.0.0.1 at 2023-06-26 23:23:14 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-regular-400.woff"):
+  
+Started GET "/webfonts/fa-brands-400.ttf" for 127.0.0.1 at 2023-06-26 23:23:15 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-brands-400.ttf"):
+  
+Started GET "/webfonts/fa-regular-400.ttf" for 127.0.0.1 at 2023-06-26 23:23:15 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-regular-400.ttf"):
+  
+Started GET "/images/fulls/04.jpg" for 127.0.0.1 at 2023-06-26 23:23:29 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/images/fulls/04.jpg"):
+  
+Started GET "/" for 127.0.0.1 at 2023-06-26 23:26:36 -0400
+Processing by PagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (Duration: 21.3ms | Allocations: 5427)
+  Rendered shared/_header.html.erb (Duration: 0.5ms | Allocations: 106)
+  Rendered shared/_footer.html.erb (Duration: 5.6ms | Allocations: 98)
+  Rendered layout layouts/application.html.erb (Duration: 43.5ms | Allocations: 17752)
+Completed 200 OK in 49ms (Views: 47.7ms | Allocations: 18677)
+
+
+Started GET "/app/assets/stylesheets/main.css" for 127.0.0.1 at 2023-06-26 23:26:36 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/app/assets/stylesheets/main.css"):
+  
+Started GET "/webfonts/fa-regular-400.woff2" for 127.0.0.1 at 2023-06-26 23:26:36 -0400
+Started GET "/webfonts/fa-brands-400.woff2" for 127.0.0.1 at 2023-06-26 23:26:36 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-regular-400.woff2"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-brands-400.woff2"):
+  
+Started GET "/webfonts/fa-regular-400.woff" for 127.0.0.1 at 2023-06-26 23:26:36 -0400
+Started GET "/webfonts/fa-brands-400.woff" for 127.0.0.1 at 2023-06-26 23:26:36 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-regular-400.woff"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-brands-400.woff"):
+  
+Started GET "/webfonts/fa-regular-400.ttf" for 127.0.0.1 at 2023-06-26 23:26:36 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-regular-400.ttf"):
+  
+Started GET "/webfonts/fa-brands-400.ttf" for 127.0.0.1 at 2023-06-26 23:26:37 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-brands-400.ttf"):
+  
+Started GET "/" for 127.0.0.1 at 2023-06-26 23:29:19 -0400
+Processing by PagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (Duration: 18.0ms | Allocations: 5395)
+  Rendered shared/_header.html.erb (Duration: 0.4ms | Allocations: 106)
+  Rendered shared/_footer.html.erb (Duration: 0.3ms | Allocations: 98)
+  Rendered layout layouts/application.html.erb (Duration: 51.7ms | Allocations: 17733)
+Completed 200 OK in 55ms (Views: 54.0ms | Allocations: 18658)
+
+
+Started GET "/app/assets/stylesheets/main.css" for 127.0.0.1 at 2023-06-26 23:29:20 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/app/assets/stylesheets/main.css"):
+  
+Started GET "/webfonts/fa-brands-400.woff2" for 127.0.0.1 at 2023-06-26 23:29:20 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-brands-400.woff2"):
+  
+Started GET "/webfonts/fa-regular-400.woff2" for 127.0.0.1 at 2023-06-26 23:29:20 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-regular-400.woff2"):
+  
+Started GET "/webfonts/fa-brands-400.woff" for 127.0.0.1 at 2023-06-26 23:29:20 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-brands-400.woff"):
+  
+Started GET "/webfonts/fa-regular-400.woff" for 127.0.0.1 at 2023-06-26 23:29:20 -0400
+Started GET "/webfonts/fa-brands-400.ttf" for 127.0.0.1 at 2023-06-26 23:29:20 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-regular-400.woff"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-brands-400.ttf"):
+  
+Started GET "/webfonts/fa-regular-400.ttf" for 127.0.0.1 at 2023-06-26 23:29:20 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-regular-400.ttf"):
+  
+Started GET "/images/fulls/06.jpg" for 127.0.0.1 at 2023-06-26 23:29:34 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/images/fulls/06.jpg"):
+  
+Started GET "/" for 127.0.0.1 at 2023-06-26 23:38:59 -0400
+Processing by PagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (Duration: 15.7ms | Allocations: 5394)
+  Rendered shared/_header.html.erb (Duration: 1.5ms | Allocations: 106)
+  Rendered shared/_footer.html.erb (Duration: 1.2ms | Allocations: 98)
+  Rendered layout layouts/application.html.erb (Duration: 47.6ms | Allocations: 17704)
+Completed 200 OK in 57ms (Views: 51.0ms | Allocations: 18630)
+
+
+Started GET "/app/assets/stylesheets/main.css" for 127.0.0.1 at 2023-06-26 23:38:59 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/app/assets/stylesheets/main.css"):
+  
+Started GET "/webfonts/fa-brands-400.woff2" for 127.0.0.1 at 2023-06-26 23:38:59 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-brands-400.woff2"):
+  
+Started GET "/webfonts/fa-regular-400.woff2" for 127.0.0.1 at 2023-06-26 23:38:59 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-regular-400.woff2"):
+  
+Started GET "/webfonts/fa-brands-400.woff" for 127.0.0.1 at 2023-06-26 23:39:00 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-brands-400.woff"):
+  
+Started GET "/webfonts/fa-regular-400.woff" for 127.0.0.1 at 2023-06-26 23:39:00 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-regular-400.woff"):
+  
+Started GET "/webfonts/fa-brands-400.ttf" for 127.0.0.1 at 2023-06-26 23:39:00 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-brands-400.ttf"):
+  
+Started GET "/webfonts/fa-regular-400.ttf" for 127.0.0.1 at 2023-06-26 23:39:00 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-regular-400.ttf"):
+  
+Started GET "/" for 127.0.0.1 at 2023-06-26 23:58:01 -0400
+Processing by PagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (Duration: 7.4ms | Allocations: 202)
+  Rendered shared/_header.html.erb (Duration: 0.4ms | Allocations: 106)
+  Rendered shared/_footer.html.erb (Duration: 0.8ms | Allocations: 98)
+  Rendered layout layouts/application.html.erb (Duration: 29.6ms | Allocations: 12786)
+Completed 200 OK in 33ms (Views: 31.8ms | Allocations: 13718)
+
+
+Started GET "/app/assets/stylesheets/main.css" for 127.0.0.1 at 2023-06-26 23:58:01 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/app/assets/stylesheets/main.css"):
+  
+Started GET "/webfonts/fa-brands-400.woff2" for 127.0.0.1 at 2023-06-26 23:58:01 -0400
+Started GET "/webfonts/fa-regular-400.woff2" for 127.0.0.1 at 2023-06-26 23:58:01 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-brands-400.woff2"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-regular-400.woff2"):
+  
+Started GET "/webfonts/fa-brands-400.woff" for 127.0.0.1 at 2023-06-26 23:58:01 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-brands-400.woff"):
+  
+Started GET "/webfonts/fa-regular-400.woff" for 127.0.0.1 at 2023-06-26 23:58:01 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-regular-400.woff"):
+  
+Started GET "/webfonts/fa-brands-400.ttf" for 127.0.0.1 at 2023-06-26 23:58:01 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-brands-400.ttf"):
+  
+Started GET "/webfonts/fa-regular-400.ttf" for 127.0.0.1 at 2023-06-26 23:58:01 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/webfonts/fa-regular-400.ttf"):
+  
